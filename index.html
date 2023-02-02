@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Quotes from Alchemy of Souls</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="mobile-web-app-capable" content="yes"> 
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=PT+Sans+Narrow&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&amp;subset=latin-ext" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="./script.js"></script>
+</head>
+  
+<body>
+
+<div style="height: 100%; margin-top: -75px" class="ui middle aligned grid stackable">
+
+  <div class="column">
+
+    <div style="position: relative; top: 75px; z-index: 1" class="ui fluid centered small circular image">
+      <img src="images/alchemy.jpg">
+    </div>
+
+
+    <div style="max-width: 500px; padding-top: 75px; margin-top: 0px" class="ui fluid centered doorzichtig card">
+
+      <div class="center aligned content">
+        <div class="header"><i class="quote left icon"></i> <span id="text"></span></div>
+        <div class="ui hidden divider"></div>
+        <div class="meta">
+          –<span id="character"></span><i>Season <span id="season"></span>Episode <span id="episode"></span></i>
+        </div>
+      </div>
+      <div class="center aligned content">
+       <i id="new-quote" class="black inverted big circular sync alternate icon" onclick="showRandomQuote()"></i>
+      </div>
+      <div style="color: #5F7479; line-height: 1.37em; text-align: right; font-weight: normal; font-family: 'Roboto', sans-serif;" class="ui bottom attached black labeled icon button">
+       <i class="big vertically flipped braille icon"></i> 
+       Generating quotes from <a href="https://en.m.wikipedia.org/wiki/Alchemy_of_Souls">Alchemy of Souls</a>. Made by <a href="https://dduyg.github.io">Duygu Dağdelen</a>, 2023.
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<script> 
+  function onStart(){ 
+    $('.column').transition({ 
+    animation: 'drop in'
+    }); 
+    } 
+
+   onStart(); 
+   $('#flip-box').hover(function() { 
+   $(this).toggleClass('active'); 
+   }); 
+</script>
+
+</body>
+
+</html>
+
+ 
+ 
