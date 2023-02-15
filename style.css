@@ -33,6 +33,7 @@ a {
   content: ",";
 }
 
-.ui.button {
+ui.black.buttons .button,
+.ui.black.button {
   transition: none !important;
 }
