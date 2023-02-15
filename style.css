@@ -32,7 +32,3 @@ a {
 #character:after { 
   content: ",";
 }
-
-.disabled {
-  pointer-events: none;
-}
