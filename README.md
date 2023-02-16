@@ -7,6 +7,7 @@ It is built using HTML, CSS, and JavaScript. The *jQuery library* is used to fet
 
 Here’s a screenshot of what the finished application looks like: 
 <a href="https://dduyg.github.io/alchemyofsouls-quotes/"><img src="/images/project-image.png" width="225px"></a>
+<a href="https://dduyg.github.io/alchemyofsouls-quotes/"><img src="/images/project-image-2.png" width="225px"></a>
 
 | Status   | Details       |
 |----------|---------------|
