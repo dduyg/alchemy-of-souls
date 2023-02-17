@@ -12,14 +12,14 @@ $.get("https://raw.githubusercontent.com/dduyg/alchemyofsouls-quotes/main/data/a
 
     // Function to display a random quote
     function showRandomQuote() {
-        const randomIndex = getRandomIndex(quotes.length);
-        const randomQuote = quotes[randomIndex];
+        let randomIndex = getRandomIndex(quotes.length);
+        let randomQuote = quotes[randomIndex];
 
         // Check if the random quote has any missing data
-        if (!randomQuote.text || !randomQuote.character || !randomQuote.season || !randomQuote.episode) {
-            // If the quote is missing data, show an error message and do not update the HTML elements
-            alert("Error: The selected quote is missing data. Please try again.");
-            return;
+        while (!randomQuote.text || !randomQuote.character || !randomQuote.season || !randomQuote.episode) {
+            // If the quote is missing data, select a new random quote
+            randomIndex = getRandomIndex(quotes.length);
+            randomQuote = quotes[randomIndex];
         }
 
         // Update the HTML elements with the quote data
