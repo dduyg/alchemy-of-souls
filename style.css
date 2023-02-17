@@ -63,3 +63,8 @@ a {
   background-color: #1B1C1D;
   color: #5F7479;
 }
+
+.ui.cards > .card > .content > a.header:hover,
+.ui.card > .content > a.header:hover {
+  color: black;
+}
