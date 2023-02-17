@@ -33,7 +33,33 @@ a {
   content: ",";
 }
 
-ui.black.buttons .button,
+.ui.black.buttons .button,
 .ui.black.button {
-  transition: none !important;
+  background-color: #1B1C1D;
+  font-weight: normal;
+  color: #5F7479; 
+  line-height: 1.37em;
+  font-family: 'Roboto', sans-serif;
+}
+.ui.black.buttons .button:hover,
+.ui.black.button:hover {
+  background-color: #1B1C1D;
+  color: #5F7479;
+}
+.ui.black.buttons .button:focus,
+.ui.black.button:focus {
+  background-color: #1B1C1D;
+  color: #5F7479;
+}
+.ui.black.buttons .button:active,
+.ui.black.button:active {
+  background-color: #1B1C1D;
+  color: #5F7479;
+}
+.ui.black.buttons .active.button,
+.ui.black.buttons .active.button:active,
+.ui.black.active.button,
+.ui.black.button .active.button:active {
+  background-color: #1B1C1D;
+  color: #5F7479;
 }
