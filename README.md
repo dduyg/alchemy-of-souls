@@ -10,8 +10,8 @@ Here’s a screenshot of what the finished application looks like:
 
 | Status   | Details       |
 |----------|---------------|
-| Complete | Episodes `S01E01` to `S01E14` integrated  |
-| To-Do    | Integrating episodes `S01E15` to `S02E10`        |
+| Complete | Episodes `S01E01` to `S01E16` integrated  |
+| To-Do    | Integrating episodes `S01E17` to `S02E10`        |
 
 
 ## Data
