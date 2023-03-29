@@ -10,8 +10,3 @@
 | season    | integer | Season number                  |
 | episode   | integer | Episode number                 |
 
-
-##
-<p align= "center"><img src="/images/alchemyofsouls-bluemark.png" width="210px"></p>
-<h4 align= "center"><samp>The blue marks bloomed in her eyes like flowers.” – Jang Uk</samp></h4>
-
