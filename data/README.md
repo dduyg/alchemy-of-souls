@@ -1,4 +1,4 @@
-# Data
+# The dataset
 - The original raw data scraped as English Subtitles (`.srt`) for Alchemy of Souls, per episode accessible in `raw-data`.  
 - Cleaned the raw English subtitles data into `alchemyofsoulsquotes.csv` dataset.
 
