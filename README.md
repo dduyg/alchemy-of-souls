@@ -12,16 +12,3 @@ Here’s a screenshot of what the finished application looks like:
 |----------|---------------|
 | Complete | Episodes `S01E01` to `S01E18` integrated  |
 | To-Do    | Integrating episodes `S01E19` to `S02E10`        |
-
-
-## Data
-- The original raw data scraped as English Subtitles (`.srt`) for Alchemy of Souls, per episode accessible in `data/raw-data/`.  
-- Cleaned the raw English subtitles data into `alchemyofsoulsquotes.csv` dataset.
-
-### data/alchemyofsoulsquotes.csv
-| variable  | type    | description                    |
-|-----------|---------|--------------------------------|
-| text      | string  | Lines spoken in the scene      |
-| character | string  | Name of the character speaking |
-| season    | integer | Season number                  |
-| episode   | integer | Episode number                 |
