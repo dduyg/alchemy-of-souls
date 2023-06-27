@@ -1,4 +1,8 @@
-## The finished dataset alchemyofsoulsquotes.csv
+# Data
+- The original data comes from opensubtitles.org
+- Prepped data for analyzing in AoS-episodes
+
+## The final dataset alchemyofsoulsquotes.csv
 
 | variable  | type    | description                    |
 |-----------|---------|--------------------------------|
