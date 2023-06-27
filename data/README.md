@@ -1,6 +1,6 @@
 # Data
 - The original data comes from opensubtitles.org
-- Prepped data for analyzing in AoS-episodes
+- Prepped data for analyzing in `AoS-episodes`
 
 ## The final dataset alchemyofsoulsquotes.csv
 
