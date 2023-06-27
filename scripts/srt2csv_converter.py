@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import csv
 
 def srt_to_csv(srt_file, csv_file):
@@ -49,9 +43,6 @@ def calculate_duration(time_in, time_out):
 
     duration = round(out_seconds - in_seconds, 2)
     return "{:.2f}".format(duration)
-
-
-# In[2]:
 
 
 # Example usage
