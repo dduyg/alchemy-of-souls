@@ -1,5 +1,6 @@
-''' written by Duygu Dağdelen, 2023 '''
-
+""" WRITTEN BY DUYGU DAĞDELEN, 2023
+/////////////////////////////////////
+"""
 
 import csv
 
@@ -48,7 +49,7 @@ def calculate_duration(time_in, time_out):
     return "{:.2f}".format(duration)
 
 
-# Example usage
+# EXAMPLE USAGE
 
 srt_file = 'path/to/input.srt'
 csv_file = 'path/to/output.csv'
