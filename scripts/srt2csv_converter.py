@@ -1,3 +1,6 @@
+''' written by Duygu Dağdelen, 2023 '''
+
+
 import csv
 
 def srt_to_csv(srt_file, csv_file):
