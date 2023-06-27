@@ -1,8 +1,7 @@
 """
-WRITTEN BY DUYGU DAĞDELEN, 2023
-/////////////////////////////////////
+Written by Duygu Dağdelen, 2023
+--------------------------------
 """ 
-
 
 import csv
 
