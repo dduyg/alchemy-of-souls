@@ -1,6 +1,6 @@
 # Generating quotes from Alchemy of Souls
 
-This application returns a random quote from the Korean series [*Alchemy of Souls*](https://www.imdb.com/title/tt20859920/) upon the click of a button, and displays it in the browser.
+This application returns a random line from the Korean series [*Alchemy of Souls*](https://www.imdb.com/title/tt20859920/) upon the click of a button, and displays it in the browser.
 
 <a href="https://dduyg.github.io/alchemy-of-souls/"><img src="/images/project-image.png" width="245px"></a>
 
