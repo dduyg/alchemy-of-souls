@@ -1,4 +1,4 @@
-# Extracting Valuable Lessons from ‘Alchemy of Souls’
+# Extracting Valuable Messages from ‘Alchemy of Souls’
 
 This application returns a random line from the Korean series [*Alchemy of Souls*](https://www.imdb.com/title/tt20859920/) upon the click of a button, and displays it in the browser.
 
