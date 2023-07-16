@@ -51,8 +51,8 @@ def srt_to_csv(srt_file, csv_file):
     print(f"Conversion completed. CSV file '{csv_file}' has been created.")
 
 def extract_season_episode(srt_file):
-    # Extract season and episode from the SRT file name using regular expressions
-    match = re.search(r'S(\d+)E(\d+)', srt_file)
+    # Extract season and episode from the SRT file name using regular expressions (case-insensitive)
+    match = re.search(r's(\d+)e(\d+)', srt_file, re.IGNORECASE)
     if match:
         season = int(match.group(1))
         episode = int(match.group(2))
@@ -61,7 +61,7 @@ def extract_season_episode(srt_file):
         raise ValueError("Invalid SRT file name format. Unable to extract season and episode.")
 
 def calculate_duration(time_in, time_out):
-    # Calculate the duration in seconds based on the timecodes
+    # Calculate the duration based on the timecodes
     in_parts = time_in.split(':')
     out_parts = time_out.split(':')
 
