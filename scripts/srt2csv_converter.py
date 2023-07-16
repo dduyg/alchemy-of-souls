@@ -56,7 +56,7 @@ def extract_season_episode(srt_file):
         raise ValueError("Invalid SRT file name format. Unable to extract season and episode.")
 
 def calculate_duration(time_in, time_out):
-    # Calculate the duration based on the timecodes
+    # Calculate the duration in seconds based on the timecodes
     in_parts = time_in.split(':')
     out_parts = time_out.split(':')
 
