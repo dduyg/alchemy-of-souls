@@ -26,7 +26,7 @@ def srt_to_csv(srt_file, csv_file):
 
         if line.isdigit():
             serial = int(line)
-            number_line += 1  # Increment number_line for each new line
+            number_line += 1  # Increment number_line for each new line of text
         elif '-->' in line:
             timecodes = line.split(' --> ')
             time_in = timecodes[0]
@@ -56,7 +56,7 @@ def extract_season_episode(srt_file):
         raise ValueError("Invalid SRT file name format. Unable to extract season and episode.")
 
 def calculate_duration(time_in, time_out):
-    # Your existing calculate_duration function
+    # Calculate the duration based on the timecodes
     in_parts = time_in.split(':')
     out_parts = time_out.split(':')
 
