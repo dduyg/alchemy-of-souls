@@ -4,8 +4,12 @@ Written by Duygu Dağdelen, 2023
 """ 
 
 import csv
+import re
 
 def srt_to_csv(srt_file, csv_file):
+    # Extract season and episode from the SRT file name
+    season, episode = extract_season_episode(srt_file)
+
     with open(srt_file, 'r') as srt:
         lines = srt.readlines()
 
@@ -15,12 +19,14 @@ def srt_to_csv(srt_file, csv_file):
     time_out = ''
     duration = ''
     text = ''
+    number_line = 0  # Initialize number_line as 0
 
     for line in lines:
         line = line.strip()
 
         if line.isdigit():
             serial = int(line)
+            number_line += 1  # Increment number_line for each new line
         elif '-->' in line:
             timecodes = line.split(' --> ')
             time_in = timecodes[0]
@@ -29,17 +35,28 @@ def srt_to_csv(srt_file, csv_file):
         elif line:
             text += ' ' + line
         else:
-            csv_data.append([serial, time_in, time_out, duration, text.strip()])
+            csv_data.append([season, episode, time_in, time_out, duration, number_line, text.strip()])
             text = ''
 
     with open(csv_file, 'w', newline='') as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(['number', 'timecode_in', 'timecode_out', 'duration', 'text'])
+        writer.writerow(['season', 'episode', 'timecode_in', 'timecode_out', 'duration', 'number_line', 'text'])
         writer.writerows(csv_data)
 
     print(f"Conversion completed. CSV file '{csv_file}' has been created.")
 
+def extract_season_episode(srt_file):
+    # Extract season and episode from the SRT file name using regular expressions
+    match = re.search(r'S(\d+)E(\d+)', srt_file)
+    if match:
+        season = int(match.group(1))
+        episode = int(match.group(2))
+        return season, episode
+    else:
+        raise ValueError("Invalid SRT file name format. Unable to extract season and episode.")
+
 def calculate_duration(time_in, time_out):
+    # Your existing calculate_duration function
     in_parts = time_in.split(':')
     out_parts = time_out.split(':')
 
@@ -56,4 +73,3 @@ srt_file = 'path/to/input.srt'
 csv_file = 'path/to/output.csv'
 
 srt_to_csv(srt_file, csv_file)
-
