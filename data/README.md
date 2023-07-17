@@ -7,7 +7,8 @@ Prepped data for analyzing in `/aos-episodes`, using the [/scripts/srt2csv.py](.
 
 [^1]: Please note that the English subtitles sourced from opensubtitles.org, are used under the assumption of fair use for non-commercial purposes. All rights, including copyright, belong to their respective owners. Any analysis, processing, and presentation of the data were conducted solely for non-commercial purposes as part of a personal project.
 
-## The final dataset used in the application  alchemyofsoulsquotes.csv
+## alchemyofsoulsquotes.csv
+The final dataset used in the application.
 
 | variable  | type    | description                    |
 |-----------|---------|--------------------------------|
