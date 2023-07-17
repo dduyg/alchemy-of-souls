@@ -5,6 +5,16 @@ To create the data, I turned to the English subtitles per episode, which where a
 ## /aos-episodes
 The prepped data for analyzing is accessible in `/aos-episodes`. It is created using [`../scripts/srt2csv.py`](../scripts/srt2csv.py)
 
+| variable     | type    | description                                                       |
+| ------------ | ------- | ----------------------------------------------------------------- |
+| season       | integer | Season number of the episode                                      |
+| episode      | integer | Episode number within the season                                  |
+| timecode_in  | float   | Start time of the line in the episode, in the format HH:MM:SS,mmm |
+| timecode_out | float   | End time of the line in the episode, in the format HH:MM:SS,mmm   |
+| duration     | float   | Duration of the line in seconds                                   |
+| number_line  | integer | Number/order of the line within the episode                       |
+| text         | string  | The actual spoken line in the scene                               |
+
 ## /alchemyofsouls_valuable_lines.csv
 This is the final dataset used in the application.
 
