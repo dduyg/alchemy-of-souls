@@ -5,7 +5,7 @@ To create the data, I turned to the English subtitles per episode, which where a
 ## /aos-episodes
 The prepped data for analyzing is accessible in `/aos-episodes`. It is created using [`../scripts/srt2csv.py`](../scripts/srt2csv.py)
 
-## /alchemyofsoulsquotes.csv
+## /alchemyofsouls_valuable_lines.csv
 This is the final dataset used in the application.
 
 | variable  | type    | description                    |
