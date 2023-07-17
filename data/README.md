@@ -1,14 +1,13 @@
 # Data
-
-> To create the data, I turned to the English subtitles per episode, which where available in `srt` format on opensubtitles.org[^1], an platform providing multilingual subtitles.
+To create the data, I turned to the English subtitles per episode, which where available in `srt` format on opensubtitles.org[^1], an platform providing multilingual subtitles.
 
 ## /aos-episodes
-Prepped data for analyzing in `/aos-episodes`, using the [/scripts/srt2csv.py](../scripts/srt2csv.py)
+The prepped data for analyzing is accessible in `/aos-episodes`. It is created using the [/scripts/srt2csv.py](../scripts/srt2csv.py)
 
 [^1]: Please note that the English subtitles sourced from opensubtitles.org, are used under the assumption of fair use for non-commercial purposes. All rights, including copyright, belong to their respective owners. Any analysis, processing, and presentation of the data were conducted solely for non-commercial purposes as part of a personal project.
 
-## alchemyofsoulsquotes.csv
-The final dataset used in the application.
+## /alchemyofsoulsquotes.csv
+This is the final dataset used in the application.
 
 | variable  | type    | description                    |
 |-----------|---------|--------------------------------|
