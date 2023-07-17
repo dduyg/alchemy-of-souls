@@ -2,8 +2,8 @@
 Written by Duygu Dağdelen, 2023
 ************************************
 
-Make sure to name the input SRT file following a format like "aos_S01E14.srt" or a similar one ( e.g. "aos_s01e14.srt" ),
-where "S" represents the season number and "E" represents the episode number.
+Make sure to name the input SRT file following a format like "aos_S01E14.srt" or a similar one (e.g. "aos_s01e14.srt"),
+where "s" represents the season number and "e" represents the episode number.
 This naming convention is necessary to extract the season and episode from the SRT file name.
 
 """
