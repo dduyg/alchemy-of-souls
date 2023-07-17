@@ -1,5 +1,5 @@
 // Use jQuery's $.get() method to fetch the CSV file containing the quotes
-$.get("https://raw.githubusercontent.com/dduyg/alchemyofsouls-quotes/main/data/alchemyofsoulsquotes.csv", function(data) {
+$.get("https://raw.githubusercontent.com/dduyg/alchemy-of-souls/main/data/alchemyofsouls_valuable_lines.csv", function(data) {
     // Convert the CSV data to a 2D array
     const quotes = Papa.parse(data, { header: true }).data;
 
