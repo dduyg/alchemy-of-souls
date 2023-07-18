@@ -13,7 +13,7 @@ The prepped data for analyzing is accessible in `/aos-episodes`. It is created u
 | timecode_out | string   | Time within the episode when the line stops being spoken (format: HH:MM:SS,mmm)    |
 | duration_line     | float   | Duration of the line in seconds                                   |
 | line_order  | integer | Order in which line appears in episode                   |
-| line_text         | string  | The actual spoken line in the scene                               |
+| line_text         | string  | Contains the actual dialogue, the lines spoken within the episode                               |
 
 ## /alchemyofsouls_valuable_lines.csv
 This is the final dataset used in the application.
