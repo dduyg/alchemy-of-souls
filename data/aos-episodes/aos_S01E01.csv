@@ -78,8 +78,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:13:35,981","00:13:37,024",1.04,77,Kill her.
 1,1,"00:13:39,485","00:13:40,361",0.88,78,Shoot!
 1,1,"00:16:38,664","00:16:40,124",1.46,79,Do not let her get away.
-1,1,"00:16:40,791","00:16:42,292",1.50,80,-Capture her.
-1,1,"00:16:40,791","00:16:42,292",1.50,81,"-Yes, my lord!"
+1,1,"00:16:40,791","00:16:42,292",1.50,80,Capture her.
+1,1,"00:16:40,791","00:16:42,292",1.50,81,"Yes, my lord!"
 1,1,"00:16:55,180","00:16:56,890",1.71,82,Let us go that way. Follow me.
 1,1,"00:17:07,443","00:17:08,694",1.25,83,Over there!
 1,1,"00:17:58,786","00:18:00,162",1.38,84,I will not die like this.
@@ -106,8 +106,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:21:13,939","00:21:16,817",2.88,105,Does that mean her soul escaped her body?
 1,1,"00:21:16,900","00:21:20,404",3.50,106,"She seems to have tried, but I think she failed."
 1,1,"00:21:21,154","00:21:27,286",6.13,107,"This proves that her soul has escaped her body, but we found no signs of her soul having entered another body."
-1,1,"00:21:37,421","00:21:39,798",2.38,108,-It is a whistle.
-1,1,"00:21:37,421","00:21:39,798",2.38,109,-A whistle?
+1,1,"00:21:37,421","00:21:39,798",2.38,108,It is a whistle.
+1,1,"00:21:37,421","00:21:39,798",2.38,109,A whistle?
 1,1,"00:21:39,881","00:21:42,759",2.88,110,I once had a similar one myself back when I had a pet bird.
 1,1,"00:21:44,720","00:21:47,139",2.42,111,Did she have a pet bird?
 1,1,"00:21:47,222","00:21:49,224",2.00,112,I think she had it for quite a while.
@@ -126,8 +126,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:22:37,230","00:22:40,692",3.46,125,You seem awfully excited to start rumors.
 1,1,"00:22:40,776","00:22:43,445",2.67,126,Rumors have already spread.
 1,1,"00:22:40,776","00:22:43,445",2.67,127,I came as soon as I heard.
-1,1,"00:22:44,071","00:22:45,906",1.84,128,-Where did you hear it?
-1,1,"00:22:44,071","00:22:45,906",1.84,129,-At Chwiseonru.
+1,1,"00:22:44,071","00:22:45,906",1.84,128,Where did you hear it?
+1,1,"00:22:44,071","00:22:45,906",1.84,129,At Chwiseonru.
 1,1,"00:22:45,989","00:22:47,699",1.71,130,You are a mage of Jeongjingak.
 1,1,"00:22:47,783","00:22:51,578",3.80,131,"But instead of practicing, you go to bars and listen to rumors."
 1,1,"00:22:53,121","00:22:59,586",6.46,132,"Songrim Jeongjingak is not only a place for mages to practice their spells, but also a place to gather information."
@@ -185,15 +185,15 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:27:46,456","00:27:48,875",2.42,184,Is this body not capable of even climbing this?
 1,1,"00:27:50,960","00:27:52,128",1.17,185,My arms feel weak.
 1,1,"00:27:53,046","00:27:54,297",1.25,186,Mister!
-1,1,"00:27:54,881","00:27:56,508",1.63,187,-Help me!
-1,1,"00:27:54,881","00:27:56,508",1.63,188,-What…
-1,1,"00:27:56,591","00:27:58,343",1.75,189,-Mister!
-1,1,"00:27:56,591","00:27:58,343",1.75,190,"-Oh, dear!"
+1,1,"00:27:54,881","00:27:56,508",1.63,187,Help me!
+1,1,"00:27:54,881","00:27:56,508",1.63,188,What…
+1,1,"00:27:56,591","00:27:58,343",1.75,189,Mister!
+1,1,"00:27:56,591","00:27:58,343",1.75,190,"Oh, dear!"
 1,1,"00:27:58,426","00:27:59,761",1.34,191,"Mu-deok, hold on!"
 1,1,"00:27:59,844","00:28:00,720",0.88,192,Mister!
 1,1,"00:28:00,804","00:28:03,473",2.67,193,Turn the boat around! Go back!
-1,1,"00:28:03,556","00:28:05,141",1.59,194,-My goodness.
-1,1,"00:28:03,556","00:28:05,141",1.59,195,"-Oh, dear! Mu-deok!"
+1,1,"00:28:03,556","00:28:05,141",1.59,194,My goodness.
+1,1,"00:28:03,556","00:28:05,141",1.59,195,"Oh, dear! Mu-deok!"
 1,1,"00:28:05,225","00:28:06,309",1.08,196,I will fall.
 1,1,"00:28:06,393","00:28:07,435",1.04,197,Mister!
 1,1,"00:28:19,322","00:28:23,410",4.09,198,Why were you hanging from there when you cannot even see?
@@ -210,14 +210,14 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:28:52,230","00:28:53,481",1.25,209,It is fine.
 1,1,"00:28:53,565","00:28:55,233",1.67,210,It is all because your body is weak.
 1,1,"00:28:55,984","00:28:57,152",1.17,211,Let us fill ourselves up.
-1,1,"00:29:09,998","00:29:10,832",0.83,212,-Enjoy.
-1,1,"00:29:09,998","00:29:10,832",0.83,213,-Thank you.
+1,1,"00:29:09,998","00:29:10,832",0.83,212,Enjoy.
+1,1,"00:29:09,998","00:29:10,832",0.83,213,Thank you.
 1,1,"00:29:10,915","00:29:12,667",1.75,214,"Today, let us eat good food."
 1,1,"00:29:12,751","00:29:14,127",1.38,215,It is chicken. Enjoy.
 1,1,"00:29:15,462","00:29:17,964",2.50,216,"As an assassin, I am sensitive to the smell of blood."
 1,1,"00:29:18,047","00:29:21,926",3.88,217,"Thus, I do not eat animals that shed the same colored blood as humans."
-1,1,"00:29:22,010","00:29:23,678",1.67,218,-I will pass.
-1,1,"00:29:22,010","00:29:23,678",1.67,219,-Just eat.
+1,1,"00:29:22,010","00:29:23,678",1.67,218,I will pass.
+1,1,"00:29:22,010","00:29:23,678",1.67,219,Just eat.
 1,1,"00:29:31,644","00:29:34,272",2.63,220,It is my first time eating meat.
 1,1,"00:29:35,607","00:29:36,775",1.17,221,It is delicious.
 1,1,"00:29:41,529","00:29:42,614",1.09,222,Eat up.
@@ -228,8 +228,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:30:03,009","00:30:07,472",4.46,227,"The debt she had due to her illness got passed onto her, which is why she's here to be sold off."
 1,1,"00:30:07,555","00:30:08,515",0.96,228,I will be off now.
 1,1,"00:30:09,516","00:30:11,768",2.25,229,You cannot sell this poor soul to a brothel.
-1,1,"00:30:11,851","00:30:14,229",2.38,230,-I wish you well.
-1,1,"00:30:11,851","00:30:19,359",7.51,231,-But… I cannot believe he fed me chicken just to sell me to this place.
+1,1,"00:30:11,851","00:30:14,229",2.38,230,I wish you well.
+1,1,"00:30:11,851","00:30:19,359",7.51,231,But… I cannot believe he fed me chicken just to sell me to this place.
 1,1,"00:30:19,442","00:30:22,570",3.13,232,I will rip you to pieces as soon as I regain my power.
 1,1,"00:30:23,071","00:30:25,156",2.09,233,You are way too skinny.
 1,1,"00:30:25,240","00:30:28,076",2.84,234,I wonder if you will become prettier if you become chubbier.
@@ -353,8 +353,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:40:06,153","00:40:08,739",2.59,352,Come on. There is not much in there.
 1,1,"00:40:10,699","00:40:13,869",3.17,353,Just… take this instead.
 1,1,"00:40:17,289","00:40:18,374",1.08,354,Hey…
-1,1,"00:40:37,476","00:40:40,312",2.84,355,-What are you looking at?
-1,1,"00:40:37,476","00:40:40,312",2.84,356,-What? Nothing.
+1,1,"00:40:37,476","00:40:40,312",2.84,355,What are you looking at?
+1,1,"00:40:37,476","00:40:40,312",2.84,356,What? Nothing.
 1,1,"00:40:45,693","00:40:46,652",0.96,357,Dang-gu.
 1,1,"00:40:48,237","00:40:51,115",2.88,358,"I heard Naksu, the Shadow Assassin, uses Tansu."
 1,1,"00:40:51,198","00:40:53,117",1.92,359,What do you know about Tansu?
@@ -402,8 +402,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:44:15,527","00:44:18,822",3.30,401,I will not ask for too much.
 1,1,"00:44:15,527","00:44:18,822",3.30,402,Just pick a price and pay me.
 1,1,"00:44:21,200","00:44:22,076",0.88,403,Over here!
-1,1,"00:44:22,993","00:44:24,578",1.59,404,-It is her.
-1,1,"00:44:22,993","00:44:24,578",1.59,405,-What is going on?
+1,1,"00:44:22,993","00:44:24,578",1.59,404,It is her.
+1,1,"00:44:22,993","00:44:24,578",1.59,405,What is going on?
 1,1,"00:44:24,662","00:44:25,788",1.13,406,Take her away!
 1,1,"00:44:41,428","00:44:43,931",2.50,407,Where am I? Did I get caught?
 1,1,"00:44:45,140","00:44:46,684",1.54,408,Then is this Songrim?
@@ -413,8 +413,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:45:01,240","00:45:04,410",3.17,412,"""Jang Gang""?"
 1,1,"00:45:01,240","00:45:04,410",3.17,413,So this is the Jang family's house?
 1,1,"00:45:08,831","00:45:13,293",4.46,414,I wonder why Young Master brought home such a weak girl.
-1,1,"00:45:13,377","00:45:15,879",2.50,415,"-""Young Master""?"
-1,1,"00:45:13,377","00:45:15,879",2.50,416,-That is right.
+1,1,"00:45:13,377","00:45:15,879",2.50,415,"""Young Master""?"
+1,1,"00:45:13,377","00:45:15,879",2.50,416,That is right.
 1,1,"00:45:15,963","00:45:19,758",3.79,417,Young Master Jang Uk paid money to bring you here from the brothel.
 1,1,"00:45:19,842","00:45:23,387",3.55,418,I heard you stole his Jade Plaque at the brothel.
 1,1,"00:45:25,389","00:45:26,682",1.29,419,Take this instead.
@@ -424,16 +424,16 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:45:38,110","00:45:39,778",1.67,423,He only helped out of pity.
 1,1,"00:45:40,571","00:45:42,865",2.29,424,Here. Get changed.
 1,1,"00:45:42,948","00:45:44,158",1.21,425,Mu-deok.
-1,1,"00:45:44,241","00:45:46,243",2.00,426,-What is this?
-1,1,"00:45:44,241","00:45:46,243",2.00,427,-What do you think?
+1,1,"00:45:44,241","00:45:46,243",2.00,426,What is this?
+1,1,"00:45:44,241","00:45:46,243",2.00,427,What do you think?
 1,1,"00:45:46,326","00:45:48,120",1.79,428,It is your uniform as a servant.
 1,1,"00:45:48,203","00:45:52,249",4.05,429,"Also, you need to speak to me using honorifics."
 1,1,"00:45:53,834","00:45:57,379",3.55,430,"Young Master Jang is weak, so he gets tired very easily."
 1,1,"00:45:57,463","00:45:59,715",2.25,431,Make sure you do things as soon as you are asked.
 1,1,"00:46:00,299","00:46:03,927",3.63,432,And always put on a smile no matter what he says.
 1,1,"00:46:05,137","00:46:06,221",1.08,433,Where is my answer?
-1,1,"00:46:07,389","00:46:09,475",2.09,434,"-Yes, ma'am."
-1,1,"00:46:07,389","00:46:09,475",2.09,435,-Good.
+1,1,"00:46:07,389","00:46:09,475",2.09,434,"Yes, ma'am."
+1,1,"00:46:07,389","00:46:09,475",2.09,435,Good.
 1,1,"00:46:10,058","00:46:13,479",3.42,436,"He wanted to see you as soon as possible, so get changed and go see him."
 1,1,"00:46:13,562","00:46:14,646",1.08,437,Answer me.
 1,1,"00:46:15,355","00:46:16,482",1.13,438,Yes…
@@ -453,8 +453,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:47:25,634","00:47:26,552",0.92,452,Young Master.
 1,1,"00:47:26,635","00:47:31,181",4.55,453,Thank you so much for saving my life and bringing me here.
 1,1,"00:47:32,224","00:47:34,309",2.09,454,It just took a few men to drag you here.
-1,1,"00:47:36,019","00:47:38,730",2.71,455,-I am disappointed.
-1,1,"00:47:36,019","00:47:42,859",6.84,456,"-I know it was rude of me to threaten you with a crab leg, but I hope you will put that behind you."
+1,1,"00:47:36,019","00:47:38,730",2.71,455,I am disappointed.
+1,1,"00:47:36,019","00:47:42,859",6.84,456,"I know it was rude of me to threaten you with a crab leg, but I hope you will put that behind you."
 1,1,"00:47:42,943","00:47:44,444",1.50,457,You sound a lot more polite now.
 1,1,"00:47:44,528","00:47:46,572",2.04,458,I will do my best to serve you right.
 1,1,"00:47:47,281","00:47:48,782",1.50,459,"Fine, you do that."
@@ -471,8 +471,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:48:34,995","00:48:36,872",1.88,470,The water is freezing.
 1,1,"00:48:39,875","00:48:41,043",1.17,471,It is not freezing.
 1,1,"00:48:41,126","00:48:43,503",2.38,472,It is. I will catch a cold if I wash in cold water.
-1,1,"00:48:45,339","00:48:47,132",1.79,473,-What is his deal?
-1,1,"00:48:45,339","00:48:47,132",1.79,474,-It is so cold.
+1,1,"00:48:45,339","00:48:47,132",1.79,473,What is his deal?
+1,1,"00:48:45,339","00:48:47,132",1.79,474,It is so cold.
 1,1,"00:48:47,215","00:48:48,383",1.17,475,Did he not fall for me?
 1,1,"00:48:48,467","00:48:49,926",1.46,476,"What are you doing, Mu-deok?"
 1,1,"00:48:51,136","00:48:54,348",3.21,477,"Yes, Young Master."
@@ -490,8 +490,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:49:52,364","00:49:53,532",1.17,489,I will kill him.
 1,1,"00:49:53,615","00:49:57,244",3.63,490,"Once I regain my energy, he'll be the first one I kill."
 1,1,"00:50:01,415","00:50:04,209",2.79,491,"Young Master, I brought you cold water."
-1,1,"00:50:04,918","00:50:07,337",2.42,492,-I brought…
-1,1,"00:50:04,918","00:50:08,880",3.96,493,-Forget it. The water has cooled to just the right temperature.
+1,1,"00:50:04,918","00:50:07,337",2.42,492,I brought…
+1,1,"00:50:04,918","00:50:08,880",3.96,493,Forget it. The water has cooled to just the right temperature.
 1,1,"00:50:10,340","00:50:13,885",3.55,494,"Good work… I mean, your work was all in vain,"
 1,1,"00:50:11,508","00:50:13,885",2.38,495,Mu-deok.
 1,1,"00:50:25,063","00:50:30,527",5.46,496,If only I had the power… If I just had a fraction of the power I used to have…
@@ -564,8 +564,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:57:12,137","00:57:15,014",2.88,563,"If you lie down right away, it will be nice and warm all night."
 1,1,"00:57:15,098","00:57:16,266",1.17,564,Is that so?
 1,1,"00:57:17,851","00:57:19,018",1.17,565,How kind of you.
-1,1,"00:57:23,440","00:57:25,650",2.21,566,"-Good night, then."
-1,1,"00:57:23,440","00:57:25,650",2.21,567,-Where are you going?
+1,1,"00:57:23,440","00:57:25,650",2.21,566,"Good night, then."
+1,1,"00:57:23,440","00:57:25,650",2.21,567,Where are you going?
 1,1,"00:57:27,819","00:57:29,195",1.38,568,You came to keep me warm.
 1,1,"00:57:30,947","00:57:36,494",5.55,569,Keep my bed nice and hot all night long.
 1,1,"00:57:38,580","00:57:39,747",1.17,570,Heat it up.
@@ -618,8 +618,8 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"01:05:33,262","01:05:34,639",1.38,617,"Uncle, are you all right?"
 1,1,"01:05:35,848","01:05:37,058",1.21,618,The intruders all left.
 1,1,"01:05:39,226","01:05:40,937",1.71,619,Jeongjingak is empty.
-1,1,"01:05:51,697","01:05:53,115",1.42,620,-Find them.
-1,1,"01:05:51,697","01:05:53,115",1.42,621,"-Yes, my lord."
+1,1,"01:05:51,697","01:05:53,115",1.42,620,Find them.
+1,1,"01:05:51,697","01:05:53,115",1.42,621,"Yes, my lord."
 1,1,"01:06:03,584","01:06:05,211",1.63,622,Who were those guys?
 1,1,"01:06:06,212","01:06:08,130",1.92,623,Did the Danju send them here?
 1,1,"01:06:11,217","01:06:14,595",3.38,624,"The soul you need to collect this time is Park Jin, the leader of Songrim."
