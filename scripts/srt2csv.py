@@ -38,9 +38,17 @@ def srt_to_csv(srt_file, csv_file):
             time_out = timecodes[1]
             duration_line = calculate_duration(time_in, time_out)
         elif line:
-            text_line += ' ' + line
+            # Check if the current line can be considered a continuation of the previous line
+            if csv_data and is_continuation(csv_data[-1], line):
+                csv_data[-1][3] = time_out  # Update timecode_out
+                csv_data[-1][4] = calculate_duration(csv_data[-1][2], time_out)  # Update duration_line
+                csv_data[-1][6] += ' ' + line.strip()  # Merge lines
+            else:
+                if csv_data:
+                    line_order = csv_data[-1][5] + 1  # Increment line_order based on the previous line
+                csv_data.append([season, episode, time_in, time_out, duration_line, line_order, line.strip()])
+                line_order += 1  # Increment line_order for the current line
         else:
-            csv_data.append([season, episode, time_in, time_out, duration_line, line_order, text_line.strip()])
             text_line = ''
 
     with open(csv_file, 'w', newline='') as csv_file:
@@ -70,6 +78,14 @@ def calculate_duration(time_in, time_out):
 
     duration = round(out_seconds - in_seconds, 2)
     return "{:.2f}".format(duration)
+
+def is_continuation(prev_line, curr_line):
+    # Check if the current line can be considered a continuation of the previous line
+    if prev_line[6][-1] not in ['.', '!', '?'] and curr_line[0].islower():
+        return True
+    if prev_line[6][-1] in [',', ' '] and curr_line[0].islower():
+        return True
+    return False
 
 
 # EXAMPLE USAGE
