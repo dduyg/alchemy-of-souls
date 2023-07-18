@@ -22,30 +22,30 @@ def srt_to_csv(srt_file, csv_file):
     serial = 1  # Initialize serial as 1
     time_in = ''
     time_out = ''
-    duration = ''
-    text = ''
-    number_line = 0  # Initialize number_line as 0
+    duration_line = ''
+    text_line = ''
+    line_order = 0  # Initialize line_order as 0
 
     for line in lines:
         line = line.strip()
 
         if line.isdigit():
             serial = int(line)
-            number_line += 1  # Increment number_line for each new line of text
+            line_order += 1  # Increment line_order for each new line of text
         elif '-->' in line:
             timecodes = line.split(' --> ')
             time_in = timecodes[0]
             time_out = timecodes[1]
-            duration = calculate_duration(time_in, time_out)
+            duration_line = calculate_duration(time_in, time_out)
         elif line:
-            text += ' ' + line
+            text_line += ' ' + line
         else:
-            csv_data.append([season, episode, time_in, time_out, duration, number_line, text.strip()])
-            text = ''
+            csv_data.append([season, episode, time_in, time_out, duration_line, line_order, text_line.strip()])
+            text_line = ''
 
     with open(csv_file, 'w', newline='') as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(['season', 'episode', 'timecode_in', 'timecode_out', 'duration', 'number_line', 'text'])
+        writer.writerow(['season', 'episode', 'timecode_in', 'timecode_out', 'duration_line', 'line_order', 'text_line'])
         writer.writerows(csv_data)
 
     print(f"Conversion completed. CSV file '{csv_file}' has been created.")
