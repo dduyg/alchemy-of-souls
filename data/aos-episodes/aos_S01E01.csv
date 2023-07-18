@@ -1,4 +1,4 @@
-season,episode,timecode_in,timecode_out,duration,number_line,text
+season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,1,"00:01:28,296","00:01:29,798",1.50,1,You poor thing.
 1,1,"00:01:30,590","00:01:32,884",2.29,2,"Child, eat this."
 1,1,"00:01:32,967","00:01:34,135",1.17,3,Child.
