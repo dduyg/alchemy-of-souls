@@ -46,6 +46,8 @@ def srt_to_csv(srt_file, csv_file):
             else:
                 if csv_data:
                     line_order = csv_data[-1][5] + 1  # Increment line_order based on the previous line
+                # Remove hyphen at the start of the line if it exists
+                line = line.lstrip('-')
                 csv_data.append([season, episode, time_in, time_out, duration_line, line_order, line.strip()])
                 line_order += 1  # Increment line_order for the current line
         else:
