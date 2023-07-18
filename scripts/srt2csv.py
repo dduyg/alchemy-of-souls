@@ -85,6 +85,8 @@ def is_continuation(prev_line, curr_line):
         return True
     if prev_line[6][-1] in [',', ' '] and curr_line[0].islower():
         return True
+    if curr_line[0] == 'I' and (prev_line[6][-1] not in ['.', '!', '?'] or prev_line[6][-1] in [',', ' ']):
+        return True
     return False
 
 
