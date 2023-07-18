@@ -7,10 +7,10 @@ The prepped data for analyzing is accessible in `/aos-episodes`. It is created u
 
 | variable     | type    | description                                                       |
 | ------------ | ------- | ----------------------------------------------------------------- |
-| season       | integer | Season number of the episode                                      |
+| season       | integer | Season number                                      |
 | episode      | integer | Episode number within the season                                  |
-| timecode_in  | string   | Time within the episode when the line starts being spoken (format= HH:MM:SS,mmm) |
-| timecode_out | string   | Time within the episode when the line stops being spoken (format= HH:MM:SS,mmm)    |
+| timecode_in  | string   | Time within the episode when the line starts being spoken (format: HH:MM:SS,mmm) |
+| timecode_out | string   | Time within the episode when the line stops being spoken (format: HH:MM:SS,mmm)    |
 | duration     | float   | Duration of the line in seconds                                   |
 | line_order  | integer | Order in which line appears in episode                   |
 | text         | string  | The actual spoken line in the scene                               |
