@@ -83,11 +83,17 @@ def calculate_duration(time_in, time_out):
 
 def is_continuation(prev_line, curr_line):
     # Check if the current line can be considered a continuation of the previous line
-    if prev_line[6][-1] not in ['.', '!', '?'] and curr_line[0].islower():
+    if prev_line[6][-1] not in ['.', '!', '?', '…'] and curr_line[0].islower():
         return True
-    if prev_line[6][-1] in [',', ' '] and curr_line[0].islower():
+    if prev_line[6][-1] in [',']:
         return True
-    if curr_line[0] == 'I' and (prev_line[6][-1] not in ['.', '!', '?'] or prev_line[6][-1] in [',', ' ']):
+
+    # Count the number of uppercase alphabetic characters in the current line
+    uppercase_count = sum(1 for char in curr_line if char.isalpha() and char.isupper())
+    if uppercase_count >= 2:
+        return False
+
+    if curr_line[0].isupper() and (prev_line[6][-1] not in ['.', '!', '?', '…']):
         return True
     return False
 
