@@ -87,12 +87,11 @@ def is_continuation(prev_line, curr_line):
         return True
     if prev_line[6][-1] in [',']:
         return True
-
-    # Check if the previous line ends with an ellipsis and the current line starts with a lowercase letter
     if prev_line[6].endswith('…') and curr_line[0].islower():
         return True
 
-    # Check if the previous line contains at least two uppercase characters consecutively
+    # If there are at least two uppercase characters consecutively, the previous line will be treated as an independent element,
+    # such as signs, titles, or headers seen in the scene.
     if any(char.isupper() for i, char in enumerate(prev_line[6]) if char.isalpha() and char.isupper() and i < len(prev_line[6])-1 and prev_line[6][i+1].isupper()):
         return False
 
