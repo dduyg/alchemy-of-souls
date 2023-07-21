@@ -88,9 +88,12 @@ def is_continuation(prev_line, curr_line):
     if prev_line[6][-1] in [',']:
         return True
 
-    # Count the number of uppercase alphabetic characters in the current line
-    uppercase_count = sum(1 for char in curr_line if char.isalpha() and char.isupper())
-    if uppercase_count >= 2:
+    # Check if the previous line ends with an ellipsis and the current line starts with a lowercase letter
+    if prev_line[6].endswith('…') and curr_line[0].islower():
+        return True
+
+    # Check if the previous line contains at least two uppercase characters consecutively
+    if any(char.isupper() for i, char in enumerate(prev_line[6]) if char.isalpha() and char.isupper() and i < len(prev_line[6])-1 and prev_line[6][i+1].isupper()):
         return False
 
     if curr_line[0].isupper() and (prev_line[6][-1] not in ['.', '!', '?', '…']):
