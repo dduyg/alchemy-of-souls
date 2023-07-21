@@ -237,662 +237,660 @@ season,episode,timecode_in,timecode_out,duration_line,line_order,text_line
 1,6,"00:16:10,052","00:16:10,892",0.84,236,"Yes, Master Lee."
 1,6,"00:16:10,970","00:16:14,430",3.46,237,She was a notorious assassin who was talented in spells.
 1,6,"00:16:16,809","00:16:19,349",2.54,238,Was it Naksu's soul that I sensed?
-1,6,"00:16:31,740","00:16:34,200",2.46,239,The one who has Jang Gang's sword
-1,6,"00:16:34,284","00:16:36,454",2.17,240,"is his son, Jang Uk, right?"
-1,6,"00:16:34,284","00:16:36,454",2.17,241,Yes.
-1,6,"00:16:36,537","00:16:40,367",3.83,242,Have you seen him before?
-1,6,"00:16:40,457","00:16:45,588",5.13,243,I met a boy with a binding bracelet and his maid who followed him around.
-1,6,"00:16:47,339","00:16:48,629",1.29,244,It was interesting.
-1,6,"00:16:55,723","00:16:58,273",2.55,245,Mu-deok packed us some chestnuts.
-1,6,"00:16:58,350","00:17:00,980",2.63,246,"Yes, they are sweet."
-1,6,"00:16:58,350","00:17:00,980",2.63,247,Give some to Maidservant Kim as well.
-1,6,"00:17:01,061","00:17:01,941",0.88,248,Sure.
-1,6,"00:17:10,946","00:17:12,486",1.54,249,Why did you bring your father's sword?
-1,6,"00:17:13,115","00:17:15,365",2.25,250,"Oh, that? Mu-deok brought it."
-1,6,"00:17:15,451","00:17:18,541",3.09,251,"You are not going to train, so why did you bring this precious sword?"
-1,6,"00:17:19,288","00:17:20,658",1.37,252,Should I give it to Maidservant Kim?
-1,6,"00:17:22,583","00:17:28,297",5.71,253,You… are not his son.
-1,6,"00:17:31,800","00:17:32,930",1.13,254,Do as you wish.
-1,6,"00:17:37,139","00:17:38,309",1.17,255,Let us go.
-1,6,"00:17:37,139","00:17:38,309",1.17,256,Sure.
-1,6,"00:17:41,018","00:17:43,648",2.63,257,Did you say you came here often to pick herbs?
-1,6,"00:17:44,980","00:17:48,860",3.88,258,Have you ever encountered someone who lived here?
-1,6,"00:17:48,942","00:17:51,952",3.01,259,"No, Young Master Seo."
-1,6,"00:17:48,942","00:17:51,952",3.01,260,Who would live in a place like this?
-1,6,"00:17:53,322","00:17:54,572",1.25,261,I see.
-1,6,"00:17:59,286","00:18:00,496",1.21,262,One more thing.
-1,6,"00:18:02,539","00:18:04,669",2.13,263,Did it get pretty cold during the winter?
-1,6,"00:18:06,126","00:18:07,536",1.41,264,Why do you ask?
-1,6,"00:18:09,671","00:18:11,421",1.75,265,I never came here during the winter.
-1,6,"00:18:14,426","00:18:16,426",2.00,266,I worried whenever it started snowing.
-1,6,"00:18:18,222","00:18:23,850",5.63,267,I worried if it was too cold or if things were all right amid the snow.
-1,6,"00:18:34,154","00:18:38,949",4.80,268,It is actually warmer than you think.
-1,6,"00:18:42,037","00:18:45,037",3.00,269,The snow quickly melts in the sunny spots.
-1,6,"00:18:47,960","00:18:49,920",1.96,270,Is that so? I am relieved.
-1,6,"00:18:56,051","00:19:02,099",6.05,271,There is a variety of food to eat during the winter and many places to take refuge from the snow.
-1,6,"00:19:04,977","00:19:07,347",2.37,272,I bet this will be tasty.
-1,6,"00:19:04,977","00:19:07,347",2.37,273,They are really sweet.
-1,6,"00:19:10,315","00:19:11,725",1.41,274,Should we stay a day more?
-1,6,"00:19:13,152","00:19:15,652",2.50,275,Mu-deok must really like him.
-1,6,"00:19:20,200","00:19:24,408",4.21,276,She does not like him.
-1,6,"00:19:24,496","00:19:26,996",2.50,277,I am telling you. She does.
-1,6,"00:19:27,708","00:19:28,628",0.92,278,Look.
-1,6,"00:19:28,709","00:19:32,799",4.09,279,She does not look at us the same way she looks at him.
-1,6,"00:19:41,263","00:19:42,933",1.67,280,The wind keeps blowing.
-1,6,"00:19:51,607","00:19:53,317",1.71,281,Is it coming from her?
-1,6,"00:19:57,070","00:19:58,030",0.96,282,"Dang-gu, let us go."
-1,6,"00:19:58,655","00:19:59,735",1.08,283,All right.
-1,6,"00:20:04,036","00:20:05,786",1.75,284,"Goodbye, Mu-deok."
-1,6,"00:20:11,251","00:20:12,291",1.04,285,Let us go.
-1,6,"00:20:19,676","00:20:21,216",1.54,286,I will see them off.
+1,6,"00:16:31,740","00:16:36,454",4.71,239,"The one who has Jang Gang's sword -is his son, Jang Uk, right?"
+1,6,"00:16:34,284","00:16:36,454",2.17,240,Yes.
+1,6,"00:16:36,537","00:16:40,367",3.83,241,Have you seen him before?
+1,6,"00:16:40,457","00:16:45,588",5.13,242,I met a boy with a binding bracelet and his maid who followed him around.
+1,6,"00:16:47,339","00:16:48,629",1.29,243,It was interesting.
+1,6,"00:16:55,723","00:16:58,273",2.55,244,Mu-deok packed us some chestnuts.
+1,6,"00:16:58,350","00:17:00,980",2.63,245,"Yes, they are sweet."
+1,6,"00:16:58,350","00:17:00,980",2.63,246,Give some to Maidservant Kim as well.
+1,6,"00:17:01,061","00:17:01,941",0.88,247,Sure.
+1,6,"00:17:10,946","00:17:12,486",1.54,248,Why did you bring your father's sword?
+1,6,"00:17:13,115","00:17:15,365",2.25,249,"Oh, that? Mu-deok brought it."
+1,6,"00:17:15,451","00:17:18,541",3.09,250,"You are not going to train, so why did you bring this precious sword?"
+1,6,"00:17:19,288","00:17:20,658",1.37,251,Should I give it to Maidservant Kim?
+1,6,"00:17:22,583","00:17:28,297",5.71,252,You… are not his son.
+1,6,"00:17:31,800","00:17:32,930",1.13,253,Do as you wish.
+1,6,"00:17:37,139","00:17:38,309",1.17,254,Let us go.
+1,6,"00:17:37,139","00:17:38,309",1.17,255,Sure.
+1,6,"00:17:41,018","00:17:43,648",2.63,256,Did you say you came here often to pick herbs?
+1,6,"00:17:44,980","00:17:48,860",3.88,257,Have you ever encountered someone who lived here?
+1,6,"00:17:48,942","00:17:51,952",3.01,258,"No, Young Master Seo."
+1,6,"00:17:48,942","00:17:51,952",3.01,259,Who would live in a place like this?
+1,6,"00:17:53,322","00:17:54,572",1.25,260,I see.
+1,6,"00:17:59,286","00:18:00,496",1.21,261,One more thing.
+1,6,"00:18:02,539","00:18:04,669",2.13,262,Did it get pretty cold during the winter?
+1,6,"00:18:06,126","00:18:07,536",1.41,263,Why do you ask?
+1,6,"00:18:09,671","00:18:11,421",1.75,264,I never came here during the winter.
+1,6,"00:18:14,426","00:18:16,426",2.00,265,I worried whenever it started snowing.
+1,6,"00:18:18,222","00:18:23,850",5.63,266,I worried if it was too cold or if things were all right amid the snow.
+1,6,"00:18:34,154","00:18:38,949",4.80,267,It is actually warmer than you think.
+1,6,"00:18:42,037","00:18:45,037",3.00,268,The snow quickly melts in the sunny spots.
+1,6,"00:18:47,960","00:18:49,920",1.96,269,Is that so? I am relieved.
+1,6,"00:18:56,051","00:19:02,099",6.05,270,There is a variety of food to eat during the winter and many places to take refuge from the snow.
+1,6,"00:19:04,977","00:19:07,347",2.37,271,I bet this will be tasty.
+1,6,"00:19:04,977","00:19:07,347",2.37,272,They are really sweet.
+1,6,"00:19:10,315","00:19:11,725",1.41,273,Should we stay a day more?
+1,6,"00:19:13,152","00:19:15,652",2.50,274,Mu-deok must really like him.
+1,6,"00:19:20,200","00:19:24,408",4.21,275,She does not like him.
+1,6,"00:19:24,496","00:19:26,996",2.50,276,I am telling you. She does.
+1,6,"00:19:27,708","00:19:28,628",0.92,277,Look.
+1,6,"00:19:28,709","00:19:32,799",4.09,278,She does not look at us the same way she looks at him.
+1,6,"00:19:41,263","00:19:42,933",1.67,279,The wind keeps blowing.
+1,6,"00:19:51,607","00:19:53,317",1.71,280,Is it coming from her?
+1,6,"00:19:57,070","00:19:58,030",0.96,281,"Dang-gu, let us go."
+1,6,"00:19:58,655","00:19:59,735",1.08,282,All right.
+1,6,"00:20:04,036","00:20:05,786",1.75,283,"Goodbye, Mu-deok."
+1,6,"00:20:11,251","00:20:12,291",1.04,284,Let us go.
+1,6,"00:20:19,676","00:20:21,216",1.54,285,I will see them off.
+1,6,"00:20:33,982","00:20:36,152",2.17,286,Bye.
 1,6,"00:20:33,982","00:20:36,152",2.17,287,Bye.
-1,6,"00:20:33,982","00:20:36,152",2.17,288,Bye.
-1,6,"00:20:37,069","00:20:39,279",2.21,289,Try to remember where you had lost your Spirit Plaque.
-1,6,"00:20:39,863","00:20:41,953",2.09,290,I will.
-1,6,"00:20:39,863","00:20:41,953",2.09,291,Lie low.
-1,6,"00:20:42,449","00:20:44,619",2.17,292,The Unanimous Assembly was summoned because of you.
-1,6,"00:20:44,701","00:20:47,621",2.92,293,I guess all 12 of my former masters attended it.
-1,6,"00:20:47,704","00:20:50,544",2.84,294,They were all so heartless to their former pupil.
-1,6,"00:20:51,208","00:20:54,088",2.88,295,They even mentioned cutting off your energy flow.
-1,6,"00:20:54,836","00:20:57,086",2.25,296,Why would they say that?
-1,6,"00:20:54,836","00:20:57,086",2.25,297,What?
-1,6,"00:20:59,591","00:21:01,341",1.75,298,Because you avoided your duel by fleeing.
-1,6,"00:21:03,011","00:21:04,811",1.80,299,But it is a ridiculous duel.
-1,6,"00:21:04,888","00:21:06,718",1.83,300,And you did not want it either.
-1,6,"00:21:06,807","00:21:09,017",2.21,301,Nobody is expecting you to come to that duel.
-1,6,"00:21:09,101","00:21:12,771",3.67,302,So just stay here and be laid-back like always.
-1,6,"00:21:15,148","00:21:16,858",1.71,303,The leader wanted to know something.
-1,6,"00:21:18,402","00:21:20,492",2.09,304,He asked if you were doing as you were told.
-1,6,"00:21:22,739","00:21:27,291",4.55,305,You are the result of your mother's love affair.
-1,6,"00:21:27,369","00:21:29,909",2.54,306,But we cannot allow you to lead Cheonbugwan after your father.
-1,6,"00:21:29,997","00:21:37,495",7.50,307,So stop dreaming of becoming… like your father.
-1,6,"00:21:38,088","00:21:44,218",6.13,308,Just stay a clueless Young Master of the Jang family.
-1,6,"00:21:47,597","00:21:49,927",2.33,309,Can I tell him that you are?
-1,6,"00:21:50,017","00:21:51,937",1.92,310,Have I ever listened to anyone?
-1,6,"00:21:52,561","00:21:55,441",2.88,311,Tell him I am doing the very opposite and being reckless.
-1,6,"00:21:58,692","00:21:59,862",1.17,312,"Dang-gu, leave that here."
-1,6,"00:22:00,861","00:22:01,781",0.92,313,Why?
-1,6,"00:22:02,654","00:22:04,954",2.30,314,I want to help Mu-deok catch a pheasant.
-1,6,"00:22:09,369","00:22:10,579",1.21,315,Goodbye.
-1,6,"00:22:16,043","00:22:18,633",2.59,316,Did we hurt his pride?
-1,6,"00:22:18,712","00:22:19,592",0.88,317,Let him be.
-1,6,"00:22:19,671","00:22:22,171",2.50,318,We cannot ask him to come and meet a dignified death.
-1,6,"00:22:30,140","00:22:32,480",2.34,319,So you retrieved the sword you threw away.
-1,6,"00:22:35,020","00:22:37,020",2.00,320,It hurt my pride to hear that I was a laughingstock.
-1,6,"00:22:39,149","00:22:41,899",2.75,321,"In that case, let us train as if your life depended on it."
-1,6,"00:22:43,236","00:22:47,873",4.64,322,You seem happy to hear that your pupil became a laughingstock.
-1,6,"00:22:48,658","00:22:51,078",2.42,323,"Since we are on the topic, let me add more motivation."
-1,6,"00:22:52,329","00:22:55,619",3.29,324,Your friends did not ask you to return home with them.
-1,6,"00:22:55,707","00:22:58,457",2.75,325,"Had they been in your shoes, they would have fought to their deaths."
-1,6,"00:22:58,543","00:23:01,463",2.92,326,But they told you to hide and run away.
-1,6,"00:23:02,547","00:23:03,667",1.12,327,Can you guess why?
-1,6,"00:23:06,134","00:23:08,724",2.59,328,That is because you are worthless.
-1,6,"00:23:10,639","00:23:12,599",1.96,329,Your tongue is sharp like a sword.
-1,6,"00:23:13,475","00:23:16,475",3.00,330,You do not hesitate to cut me with your words. How merciless.
-1,6,"00:23:16,561","00:23:20,897",4.34,331,I would not hesitate to stab you with a sword if that could get you back on your feet.
-1,6,"00:23:20,982","00:23:22,032",1.05,332,"Yes, Master."
-1,6,"00:23:22,109","00:23:24,359",2.25,333,Keep stabbing your worthless pupil.
-1,6,"00:23:27,072","00:23:29,122",2.05,334,Why are you not motivated after what I said?
-1,6,"00:23:29,199","00:23:30,489",1.29,335,Why are you dispirited?
-1,6,"00:23:32,994","00:23:35,214",2.22,336,Your spiteful words demotivated me.
-1,6,"00:23:35,956","00:23:37,416",1.46,337,I need to bathe and cool myself down.
-1,6,"00:23:39,209","00:23:41,169",1.96,338,Why does he bathe so much in one day?
-1,6,"00:23:41,253","00:23:42,753",1.50,339,You worthless and lazy scumbag.
-1,6,"00:23:42,838","00:23:44,168",1.33,340,I hope you burn yourself in hot water!
-1,6,"00:23:45,549","00:23:49,009",3.46,341,Unbelievable. What kind of a master says such a thing to her pupil?
-1,6,"00:23:54,224","00:23:58,404",4.18,342,Did Uk not know how he lost his Spirit Plaque?
-1,6,"00:23:59,354","00:24:03,815",4.46,343,"Maybe someone sold it after he had dropped it, and that is how those men got hold of it."
-1,6,"00:24:03,900","00:24:05,860",1.96,344,I heard there was a place where they sold such plaques.
-1,6,"00:24:07,070","00:24:09,870",2.80,345,Keep tracking his Spirit Plaque.
+1,6,"00:20:37,069","00:20:39,279",2.21,288,Try to remember where you had lost your Spirit Plaque.
+1,6,"00:20:39,863","00:20:41,953",2.09,289,I will.
+1,6,"00:20:39,863","00:20:41,953",2.09,290,Lie low.
+1,6,"00:20:42,449","00:20:44,619",2.17,291,The Unanimous Assembly was summoned because of you.
+1,6,"00:20:44,701","00:20:47,621",2.92,292,I guess all 12 of my former masters attended it.
+1,6,"00:20:47,704","00:20:50,544",2.84,293,They were all so heartless to their former pupil.
+1,6,"00:20:51,208","00:20:54,088",2.88,294,They even mentioned cutting off your energy flow.
+1,6,"00:20:54,836","00:20:57,086",2.25,295,Why would they say that?
+1,6,"00:20:54,836","00:20:57,086",2.25,296,What?
+1,6,"00:20:59,591","00:21:01,341",1.75,297,Because you avoided your duel by fleeing.
+1,6,"00:21:03,011","00:21:04,811",1.80,298,But it is a ridiculous duel.
+1,6,"00:21:04,888","00:21:06,718",1.83,299,And you did not want it either.
+1,6,"00:21:06,807","00:21:09,017",2.21,300,Nobody is expecting you to come to that duel.
+1,6,"00:21:09,101","00:21:12,771",3.67,301,So just stay here and be laid-back like always.
+1,6,"00:21:15,148","00:21:16,858",1.71,302,The leader wanted to know something.
+1,6,"00:21:18,402","00:21:20,492",2.09,303,He asked if you were doing as you were told.
+1,6,"00:21:22,739","00:21:27,291",4.55,304,You are the result of your mother's love affair.
+1,6,"00:21:27,369","00:21:29,909",2.54,305,But we cannot allow you to lead Cheonbugwan after your father.
+1,6,"00:21:29,997","00:21:37,495",7.50,306,So stop dreaming of becoming… like your father.
+1,6,"00:21:38,088","00:21:44,218",6.13,307,Just stay a clueless Young Master of the Jang family.
+1,6,"00:21:47,597","00:21:49,927",2.33,308,Can I tell him that you are?
+1,6,"00:21:50,017","00:21:51,937",1.92,309,Have I ever listened to anyone?
+1,6,"00:21:52,561","00:21:55,441",2.88,310,Tell him I am doing the very opposite and being reckless.
+1,6,"00:21:58,692","00:21:59,862",1.17,311,"Dang-gu, leave that here."
+1,6,"00:22:00,861","00:22:01,781",0.92,312,Why?
+1,6,"00:22:02,654","00:22:04,954",2.30,313,I want to help Mu-deok catch a pheasant.
+1,6,"00:22:09,369","00:22:10,579",1.21,314,Goodbye.
+1,6,"00:22:16,043","00:22:18,633",2.59,315,Did we hurt his pride?
+1,6,"00:22:18,712","00:22:19,592",0.88,316,Let him be.
+1,6,"00:22:19,671","00:22:22,171",2.50,317,We cannot ask him to come and meet a dignified death.
+1,6,"00:22:30,140","00:22:32,480",2.34,318,So you retrieved the sword you threw away.
+1,6,"00:22:35,020","00:22:37,020",2.00,319,It hurt my pride to hear that I was a laughingstock.
+1,6,"00:22:39,149","00:22:41,899",2.75,320,"In that case, let us train as if your life depended on it."
+1,6,"00:22:43,236","00:22:47,873",4.64,321,You seem happy to hear that your pupil became a laughingstock.
+1,6,"00:22:48,658","00:22:51,078",2.42,322,"Since we are on the topic, let me add more motivation."
+1,6,"00:22:52,329","00:22:55,619",3.29,323,Your friends did not ask you to return home with them.
+1,6,"00:22:55,707","00:22:58,457",2.75,324,"Had they been in your shoes, they would have fought to their deaths."
+1,6,"00:22:58,543","00:23:01,463",2.92,325,But they told you to hide and run away.
+1,6,"00:23:02,547","00:23:03,667",1.12,326,Can you guess why?
+1,6,"00:23:06,134","00:23:08,724",2.59,327,That is because you are worthless.
+1,6,"00:23:10,639","00:23:12,599",1.96,328,Your tongue is sharp like a sword.
+1,6,"00:23:13,475","00:23:16,475",3.00,329,You do not hesitate to cut me with your words. How merciless.
+1,6,"00:23:16,561","00:23:20,897",4.34,330,I would not hesitate to stab you with a sword if that could get you back on your feet.
+1,6,"00:23:20,982","00:23:22,032",1.05,331,"Yes, Master."
+1,6,"00:23:22,109","00:23:24,359",2.25,332,Keep stabbing your worthless pupil.
+1,6,"00:23:27,072","00:23:29,122",2.05,333,Why are you not motivated after what I said?
+1,6,"00:23:29,199","00:23:30,489",1.29,334,Why are you dispirited?
+1,6,"00:23:32,994","00:23:35,214",2.22,335,Your spiteful words demotivated me.
+1,6,"00:23:35,956","00:23:37,416",1.46,336,I need to bathe and cool myself down.
+1,6,"00:23:39,209","00:23:41,169",1.96,337,Why does he bathe so much in one day?
+1,6,"00:23:41,253","00:23:42,753",1.50,338,You worthless and lazy scumbag.
+1,6,"00:23:42,838","00:23:44,168",1.33,339,I hope you burn yourself in hot water!
+1,6,"00:23:45,549","00:23:49,009",3.46,340,Unbelievable. What kind of a master says such a thing to her pupil?
+1,6,"00:23:54,224","00:23:58,404",4.18,341,Did Uk not know how he lost his Spirit Plaque?
+1,6,"00:23:59,354","00:24:03,815",4.46,342,"Maybe someone sold it after he had dropped it, and that is how those men got hold of it."
+1,6,"00:24:03,900","00:24:05,860",1.96,343,I heard there was a place where they sold such plaques.
+1,6,"00:24:07,070","00:24:09,870",2.80,344,Keep tracking his Spirit Plaque.
+1,6,"00:24:11,032","00:24:12,332",1.30,345,"Yes, my lord."
 1,6,"00:24:11,032","00:24:12,332",1.30,346,"Yes, my lord."
-1,6,"00:24:11,032","00:24:12,332",1.30,347,"Yes, my lord."
-1,6,"00:24:12,409","00:24:18,077",5.67,348,How… is Uk doing?
-1,6,"00:24:20,709","00:24:23,249",2.54,349,He is doing well. He fishes and drinks.
-1,6,"00:24:24,337","00:24:26,457",2.12,350,He has yet to unfasten the binding bracelet.
-1,6,"00:24:28,800","00:24:29,890",1.09,351,You may go.
-1,6,"00:24:51,156","00:24:52,616",1.46,352,It is not that heavy anymore.
-1,6,"00:24:52,699","00:24:54,239",1.54,353,It does not hinder my movement either.
-1,6,"00:24:54,326","00:24:59,035",4.71,354,Some mages train with an iron rod to strengthen their arms to better wield their swords.
-1,6,"00:24:59,539","00:25:05,002",5.46,355,You were unknowingly strengthening yourself by wearing that heavy bracelet all day.
-1,6,"00:25:05,086","00:25:08,878",3.79,356,"It was not intentional, but you found yourself an excellent training tool."
-1,6,"00:25:10,175","00:25:11,715",1.54,357,You are extraordinarily lucky.
-1,6,"00:25:11,801","00:25:15,181",3.38,358,"If I take this off, I will be faster and stronger."
-1,6,"00:25:15,764","00:25:19,234",3.47,359,"But if you fail to control yourself, you will become even more reckless."
-1,6,"00:25:20,977","00:25:22,017",1.04,360,I…
-1,6,"00:25:22,687","00:25:23,687",1.00,361,Never mind.
-1,6,"00:25:27,609","00:25:30,699",3.09,362,What did you and Yul talk about?
-1,6,"00:25:33,114","00:25:34,624",1.51,363,About Danhyanggok.
-1,6,"00:25:36,618","00:25:39,618",3.00,364,He asked how it was during the winter.
-1,6,"00:25:43,792","00:25:48,089",4.30,365,You have met Naksu when you were young?
-1,6,"00:25:50,048","00:25:53,088",3.04,366,I was still unsure after seeing her body.
-1,6,"00:25:53,176","00:25:55,716",2.54,367,But going to Danhyanggok helped me confirm it.
-1,6,"00:25:55,804","00:25:56,894",1.09,368,That is why I am telling you now.
-1,6,"00:25:57,973","00:26:01,773",3.80,369,Danhyanggok is a deep and dangerous valley.
-1,6,"00:26:01,851","00:26:04,521",2.67,370,A young girl cannot possibly survive there on her own.
-1,6,"00:26:04,604","00:26:07,324",2.72,371,It seemed like she was living in hiding.
-1,6,"00:26:08,733","00:26:13,781",5.05,372,"After she learned of my name and my family, I was not able to see her again."
-1,6,"00:26:14,990","00:26:17,450",2.46,373,That must mean she recognized your name.
-1,6,"00:26:18,243","00:26:21,333",3.09,374,Tell me everything you know about her.
-1,6,"00:26:24,124","00:26:25,504",1.38,375,There is nothing.
-1,6,"00:26:26,126","00:26:27,876",1.75,376,I do not know her name or age.
-1,6,"00:26:28,545","00:26:32,165",3.62,377,"Other than the cliff where we called out for birds, I have never been to her abode."
-1,6,"00:26:36,303","00:26:37,263",0.96,378,There is one thing.
-1,6,"00:26:40,181","00:26:42,101",1.92,379,She once mentioned her father.
-1,6,"00:26:53,153","00:26:56,913",3.76,380,My father wrote down the stars.
-1,6,"00:26:58,825","00:27:01,235",2.41,381,I did not think much of it back then.
-1,6,"00:27:01,328","00:27:05,619",4.29,382,But writing down the stars is what a constellation recorder from Cheonbugwan does.
-1,6,"00:27:07,000","00:27:08,130",1.13,383,My lord.
-1,6,"00:27:08,626","00:27:13,665",5.04,384,"Among their constellation recorder mages, do any of them have a grudge against us?"
-1,6,"00:27:16,676","00:27:20,644",3.97,385,A constellation recorder from Cheonbugwan?
-1,6,"00:27:22,640","00:27:23,730",1.09,386,A mage?
-1,6,"00:27:28,563","00:27:35,569",7.01,387,"Twenty years ago, there was one constellation recorder mage who died in the hands of the four families."
-1,6,"00:27:37,447","00:27:40,737",3.29,388,His entire family lost their lives that day.
-1,6,"00:27:41,409","00:27:42,829",1.42,389,Except for one member.
-1,6,"00:27:42,911","00:27:45,711",2.80,390,His one and only daughter disappeared.
-1,6,"00:28:12,107","00:28:16,863",4.76,391,So our family was involved in her father's death.
-1,6,"00:28:17,445","00:28:21,569",4.12,392,She must have been hostile toward you because your family was involved in her father's death.
-1,6,"00:28:21,658","00:28:24,578",2.92,393,Is there anything else that you remember?
-1,6,"00:28:25,161","00:28:26,831",1.67,394,This was a very long time ago.
-1,6,"00:28:27,872","00:28:29,582",1.71,395,I do not remember anything else.
-1,6,"00:28:52,564","00:28:54,274",1.71,396,Because I missed them.
-1,6,"00:28:55,567","00:28:57,777",2.21,397,The broken leg did not bother me.
-1,6,"00:28:57,861","00:28:59,651",1.79,398,And I was not scared to get scolded.
-1,6,"00:29:04,075","00:29:05,905",1.83,399,I liked them a lot.
-1,6,"00:29:15,128","00:29:19,258",4.13,400,I saw you using that to summon your bird a few times.
-1,6,"00:29:21,176","00:29:22,426",1.25,401,I would also like to try.
-1,6,"00:29:23,428","00:29:25,348",1.92,402,Can I have that?
-1,6,"00:30:21,236","00:30:22,856",1.62,403,The Crown Prince is powerful.
-1,6,"00:30:23,488","00:30:27,908",4.42,404,There is only one way my pupil can subdue him and stay alive.
-1,6,"00:30:28,827","00:30:30,197",1.37,405,Tansu.
-1,6,"00:31:04,237","00:31:05,987",1.75,406,What do you want me to do?
-1,6,"00:31:07,699","00:31:09,619",1.92,407,Slice through the water drops as they fall.
-1,6,"00:31:11,035","00:31:12,325",1.29,408,They are not raindrops.
-1,6,"00:31:12,412","00:31:17,333",4.92,409,Even someone unskilled as you can slice through such slow-moving water drops.
-1,6,"00:31:18,001","00:31:18,881",0.88,410,Go on.
-1,6,"00:31:40,189","00:31:42,069",1.88,411,Only three drops in one breath.
-1,6,"00:31:42,942","00:31:44,112",1.17,412,That does not matter.
-1,6,"00:31:44,193","00:31:47,743",3.55,413,"Tansu, the skill you will master, will only require you to slice one."
-1,6,"00:31:47,822","00:31:48,952",1.13,414,Tansu?
-1,6,"00:31:50,491","00:31:51,661",1.17,415,Look here.
-1,6,"00:31:52,160","00:31:57,077",4.92,416,"I understand that I am a quick study, but mastering Tansu is pushing it."
-1,6,"00:31:57,165","00:31:59,745",2.58,417,I guess having 12 masters in the past has taught you something.
-1,6,"00:31:59,834","00:32:00,844",1.01,418,That is correct.
-1,6,"00:32:00,919","00:32:03,709",2.79,419,You can only learn that skill once you have mastered Chisu.
-1,6,"00:32:04,380","00:32:09,054",4.67,420,"You barely mastered Ryusu, yet you are still struggling to control your energy."
-1,6,"00:32:09,135","00:32:10,965",1.83,421,A subpar pupil like you cannot learn it.
-1,6,"00:32:12,305","00:32:13,425",1.12,422,But?
-1,6,"00:32:14,057","00:32:21,360",7.30,423,But that is the only way for you to fight against the Crown Prince and come out alive.
-1,6,"00:32:55,848","00:32:58,938",3.09,424,Tansu is swordsmanship that involves flicking energy with your sword.
-1,6,"00:32:59,018","00:33:04,111",5.09,425,"Your right arm may lack the skills, but it has become stronger thanks to the binding bracelet."
-1,6,"00:33:05,233","00:33:06,113",0.88,426,Just one drop.
-1,6,"00:33:07,193","00:33:10,203",3.01,427,Hit one waterdrop so you can gather and flick your energy.
-1,6,"00:33:22,542","00:33:24,292",1.75,428,You will not master it that quickly.
-1,6,"00:33:24,961","00:33:26,421",1.46,429,Let us eat and resume.
-1,6,"00:34:14,594","00:34:15,764",1.17,430,Tansu?
-1,6,"00:34:16,554","00:34:18,354",1.80,431,He will never master that skill.
-1,6,"00:34:21,059","00:34:26,654",5.59,432,That is not a relationship of a maid and her young master but that of a master and her pupil.
-1,6,"00:36:05,913","00:36:07,083",1.17,433,Mu-deok.
-1,6,"00:36:09,167","00:36:11,337",2.17,434,So you are training him.
-1,6,"00:36:14,380","00:36:16,260",1.88,435,I see he was studying Tansu.
-1,6,"00:36:17,133","00:36:18,343",1.21,436,Where did you learn that?
-1,6,"00:36:18,926","00:36:22,926",4.00,437,Young Master Jang is quite knowledgeable thanks to his former 12 masters.
-1,6,"00:36:23,014","00:36:25,064",2.05,438,Is he trying to run before learning to walk?
-1,6,"00:36:25,141","00:36:27,271",2.13,439,He has a long way to go.
-1,6,"00:36:27,351","00:36:29,601",2.25,440,"In any case, he should try."
-1,6,"00:36:30,188","00:36:32,898",2.71,441,His next step could lead him to his death.
-1,6,"00:36:36,903","00:36:39,113",2.21,442,Is your young master aware of that?
-1,6,"00:37:14,482","00:37:16,482",2.00,443,Why did you not dodge it?
-1,6,"00:37:16,567","00:37:17,647",1.08,444,Seriously.
-1,6,"00:37:33,501","00:37:35,751",2.25,445,That is the result of forcing your energy to come out.
-1,6,"00:37:36,921","00:37:38,971",2.05,446,Your arm could burst if this continues.
-1,6,"00:37:45,137","00:37:48,467",3.33,447,It looks like it could rot.
-1,6,"00:37:45,137","00:37:48,467",3.33,448,Then you will have to cut it off.
-1,6,"00:37:49,141","00:37:50,271",1.13,449,Are you serious?
-1,6,"00:37:54,438","00:37:59,400",4.96,450,"If the rotten energy spreads throughout your body, you could die."
-1,6,"00:38:19,130","00:38:21,380",2.25,451,The heat has subsided. You are fine.
-1,6,"00:38:21,465","00:38:23,085",1.62,452,Rest up. That is the best remedy.
-1,6,"00:38:23,884","00:38:24,894",1.01,453,What a liar.
-1,6,"00:38:27,054","00:38:28,854",1.80,454,"Everything he said was true, right?"
-1,6,"00:38:29,390","00:38:38,192",8.80,455,"But then again, whether I die of poison, flogging, being stabbed, or my hand exploding, this merciless master does not worry about her pupil."
-1,6,"00:38:39,775","00:38:41,185",1.41,456,That is right.
-1,6,"00:38:42,111","00:38:46,121",4.01,457,It is because you are extremely lucky and worthy.
-1,6,"00:38:46,866","00:38:49,196",2.33,458,Lying is becoming second nature to you.
-1,6,"00:38:52,371","00:38:54,461",2.09,459,I am just not trying to dispirit you.
-1,6,"00:38:55,041","00:38:58,211",3.17,460,"I see. Thank you, my cruel master."
-1,6,"00:38:58,294","00:39:00,884",2.59,461,But stay away when I am holding a sword from now on.
-1,6,"00:39:00,963","00:39:02,553",1.59,462,You almost got stabbed back there.
-1,6,"00:39:02,631","00:39:06,011",3.38,463,I only stood still because I wanted you to control it.
-1,6,"00:39:06,635","00:39:07,925",1.29,464,I was not trying to hinder you.
-1,6,"00:39:08,012","00:39:10,772",2.76,465,You were not hindering me.
-1,6,"00:39:08,012","00:39:10,772",2.76,466,I am just worried about you.
-1,6,"00:39:17,396","00:39:21,573",4.18,467,Think of me as a mother bird who is worried about her egg cracking.
-1,6,"00:39:19,523","00:39:21,573",2.05,468,Can you even relate?
-1,6,"00:39:21,650","00:39:24,200",2.55,469,Whatever. What you did barely made me crack.
-1,6,"00:39:24,278","00:39:25,398",1.12,470,I could have dodged it.
-1,6,"00:39:26,155","00:39:27,365",1.21,471,It was not dangerous?
-1,6,"00:39:27,448","00:39:29,658",2.21,472,How could you have dodged it when I was so fast?
-1,6,"00:39:29,742","00:39:31,412",1.67,473,You were not that fast.
-1,6,"00:39:32,078","00:39:33,448",1.37,474,You little…
-1,6,"00:39:35,289","00:39:36,869",1.58,475,"Could not dodge that, could you?"
-1,6,"00:39:36,957","00:39:38,457",1.50,476,You attacked without warning!
-1,6,"00:39:38,542","00:39:40,292",1.75,477,Really? Then I will warn you.
-1,6,"00:39:40,378","00:39:41,458",1.08,478,"Mu-deok, your eyes."
-1,6,"00:39:42,463","00:39:43,303",0.84,479,Jeez…
-1,6,"00:39:44,090","00:39:45,130",1.04,480,You bastard.
-1,6,"00:39:45,216","00:39:47,216",2.00,481,I cannot believe you fell for that again.
-1,6,"00:39:52,181","00:39:53,431",1.25,482,Do that again.
-1,6,"00:39:54,475","00:39:55,935",1.46,483,From this up close?
-1,6,"00:39:56,018","00:39:57,598",1.58,484,Really?
-1,6,"00:39:56,018","00:39:57,598",1.58,485,Try me.
-1,6,"00:40:02,316","00:40:03,436",1.12,486,Mu-deok.
-1,6,"00:40:04,693","00:40:06,863",2.17,487,The blue marks are barely visible now.
-1,6,"00:40:07,738","00:40:09,068",1.33,488,They were quite pretty.
-1,6,"00:40:12,952","00:40:16,542",3.59,489,And you should not provoke me when we are this close.
-1,6,"00:40:17,206","00:40:20,002",2.80,490,Do you not think I would do something else from this distance?
-1,6,"00:40:24,255","00:40:26,255",2.00,491,I guess you understood what I meant.
-1,6,"00:40:27,133","00:40:29,263",2.13,492,Maybe there are things I can teach you in this field.
-1,6,"00:40:33,722","00:40:34,892",1.17,493,Jang Uk.
-1,6,"00:40:38,144","00:40:41,864",3.72,494,You must think I am naive for having lived alone here.
-1,6,"00:40:43,274","00:40:44,574",1.30,495,"Well, I guess."
-1,6,"00:40:46,527","00:40:49,527",3.00,496,I will have you know I can teach you in other ways too.
-1,6,"00:40:50,739","00:40:51,869",1.13,497,Such as?
-1,6,"00:40:58,998","00:41:00,288",1.29,498,Hey! You…
-1,6,"00:41:00,374","00:41:05,746",5.37,499,A truly skilled individual attacks when their enemy least expects it.
-1,6,"00:41:06,297","00:41:08,127",1.83,500,"Keep that in mind, my pupil."
-1,6,"00:41:09,341","00:41:12,801",3.46,501,"Unlike me, you poked me really hard!"
-1,6,"00:41:12,887","00:41:14,507",1.62,502,Mu-deok.
-1,6,"00:41:16,182","00:41:18,522",2.34,503,Hey. Mu-deok.
-1,6,"00:41:28,736","00:41:30,526",1.79,504,Is that a new concubine?
-1,6,"00:41:31,363","00:41:34,453",3.09,505,He does not even bother to follow the formalities anymore.
-1,6,"00:41:35,075","00:41:37,325",2.25,506,She is from a small family of mages from the east.
-1,6,"00:41:37,411","00:41:40,661",3.25,507,A comet brushed past the Big Dipper the day she was born.
-1,6,"00:41:40,748","00:41:44,458",3.71,508,"At this rate, he will summon every woman born with strange horoscopes."
-1,6,"00:41:44,543","00:41:47,173",2.63,509,He just wants the King's Star.
-1,6,"00:41:58,182","00:42:04,404",6.22,510,"When the late king ascended the throne, it was prophesized that the next king would have the energy of the King's Star."
-1,6,"00:42:05,523","00:42:08,283",2.76,511,The people of Daeho were delighted.
-1,6,"00:42:08,359","00:42:12,448",4.09,512,"However, your father who had an ordinary horoscope ascended the throne next."
-1,6,"00:42:12,530","00:42:14,320",1.79,513,And you are no different either.
-1,6,"00:42:15,115","00:42:16,655",1.54,514,So people started talking.
-1,6,"00:42:17,535","00:42:19,365",1.83,515,The divination was incorrect.
-1,6,"00:42:19,453","00:42:23,173",3.72,516,Gwanju Jang Gang fled after giving such a ridiculous divination.
-1,6,"00:42:23,249","00:42:25,289",2.04,517,Your father believes in it.
-1,6,"00:42:25,876","00:42:27,626",1.75,518,That is why you are afraid.
-1,6,"00:42:30,089","00:42:31,549",1.46,519,I am not afraid.
-1,6,"00:42:31,632","00:42:36,680",5.05,520,You are afraid that someone with that energy will appear or that your father may have a son like that.
-1,6,"00:42:37,555","00:42:39,385",1.83,521,I am aware of that.
-1,6,"00:42:42,810","00:42:45,560",2.75,522,Your duel against Jang Uk is around the corner.
-1,6,"00:42:45,646","00:42:48,976",3.33,523,Eliminate the son of that man who gave such a terrifying divination.
-1,6,"00:42:50,609","00:42:53,399",2.79,524,You must get rid of your fears when you can.
-1,6,"00:42:56,031","00:42:59,535",3.50,525,Do you think he will even show up that day?
-1,6,"00:43:00,536","00:43:01,616",1.08,526,I heard he fled.
-1,6,"00:43:02,538","00:43:05,998",3.46,527,Rumor has it that he is even contemplating marriage to avoid it.
-1,6,"00:43:07,167","00:43:08,457",1.29,528,Marriage?
-1,6,"00:43:08,544","00:43:12,464",3.92,529,I heard he is marrying into the Jin family so he can earn the Jin family's plaque.
-1,6,"00:43:18,887","00:43:20,887",2.00,530,Uk and Cho-yeon are getting married?
-1,6,"00:43:21,682","00:43:23,522",1.84,531,Did they not break off their engagement before?
-1,6,"00:43:24,435","00:43:26,395",1.96,532,That is why it is easier to prepare for it.
-1,6,"00:43:27,187","00:43:32,652",5.47,533,She still had the marriage gifts from last time.
-1,6,"00:43:35,696","00:43:36,776",1.08,534,I see.
-1,6,"00:43:37,281","00:43:40,161",2.88,535,"After the marriage ceremony, Jang Uk…"
-1,6,"00:43:40,242","00:43:43,202",2.96,536,"I mean, my husband will move in here."
-1,6,"00:43:43,704","00:43:46,214",2.51,537,But my current room is too small for both of us.
-1,6,"00:43:46,290","00:43:50,750",4.46,538,Can we use the big room in the east instead?
-1,6,"00:43:51,337","00:43:54,087",2.75,539,But that is your sister's room.
-1,6,"00:43:55,591","00:43:58,141",2.55,540,It is the best room we have.
-1,6,"00:43:58,218","00:44:01,258",3.04,541,It is such a waste to keep it vacant for over a decade.
-1,6,"00:44:02,264","00:44:03,724",1.46,542,It was never vacant.
-1,6,"00:44:04,433","00:44:06,143",1.71,543,Bu-yeon will return.
-1,6,"00:44:07,561","00:44:09,311",1.75,544,"I am sorry, Mother."
-1,6,"00:44:12,066","00:44:13,936",1.87,545,Your father is looking for her.
-1,6,"00:44:15,110","00:44:18,200",3.09,546,Your sister will return home soon.
-1,6,"00:44:20,616","00:44:22,986",2.37,547,Bring me the yin-and-yang jade from Jinyowon.
-1,6,"00:44:25,412","00:44:26,712",1.30,548,The yin-and-yang jade?
-1,6,"00:44:26,789","00:44:28,169",1.38,549,You have been wanting that.
-1,6,"00:44:29,708","00:44:34,546",4.84,550,"They say when you and your lover wear rings made of that jade, your love for each other deepens."
-1,6,"00:44:36,674","00:44:39,684",3.01,551,Craft your wedding rings with it.
-1,6,"00:44:41,095","00:44:42,845",1.75,552,"Thank you, Mother."
-1,6,"00:45:06,370","00:45:08,750",2.38,553,What an annoying pot.
-1,6,"00:45:06,370","00:45:08,750",2.38,554,"It was you, was it not?"
-1,6,"00:45:09,248","00:45:10,788",1.54,555,How annoying.
-1,6,"00:45:17,756","00:45:21,181",3.43,556,I guess it annoys you that I am getting married.
-1,6,"00:45:21,260","00:45:22,300",1.04,557,But wait and see.
-1,6,"00:45:22,386","00:45:25,814",3.43,558,I will become even more annoying once I wear a ring made of this jade.
-1,6,"00:45:38,110","00:45:39,700",1.59,559,Eat up.
-1,6,"00:45:40,696","00:45:41,986",1.29,560,All right.
-1,6,"00:45:44,366","00:45:46,866",2.50,561,I had brought home a pheasant earlier.
-1,6,"00:45:46,952","00:45:48,912",1.96,562,So why are there only greens?
-1,6,"00:45:48,996","00:45:52,001",3.01,563,It is inside-- It is in the soup.
-1,6,"00:45:52,082","00:45:53,832",1.75,564,The pheasant was so tiny.
-1,6,"00:45:53,917","00:45:55,667",1.75,565,There was not much left after making that broth.
-1,6,"00:46:06,597","00:46:08,677",2.08,566,I do get a very faint taste of it.
-1,6,"00:46:13,687","00:46:16,477",2.79,567,I overheard this while selling herbs in Songrim.
-1,6,"00:46:16,565","00:46:18,935",2.37,568,Two prominent families will be marrying off their kids.
-1,6,"00:46:19,526","00:46:21,446",1.92,569,Who will be getting married?
-1,6,"00:46:21,528","00:46:24,448",2.92,570,Lady Jin's daughter is getting married.
-1,6,"00:46:25,157","00:46:28,197",3.04,571,Cho-yeon is getting married? To whom?
-1,6,"00:46:28,285","00:46:30,405",2.12,572,To the son of Cheonbugwan's Gwanju.
-1,6,"00:46:32,706","00:46:34,076",1.37,573,Is that not you?
-1,6,"00:46:45,010","00:46:48,220",3.21,574,I was never told I was getting married.
-1,6,"00:46:45,010","00:46:48,220",3.21,575,What is going on?
-1,6,"00:46:48,305","00:46:49,965",1.66,576,What is up Maidservant Kim's sleeve?
-1,6,"00:46:50,057","00:46:52,807",2.75,577,Most hastened weddings tend to be shotgun weddings.
-1,6,"00:46:52,893","00:46:53,943",1.05,578,That is not true.
-1,6,"00:46:54,520","00:46:56,100",1.58,579,You were previously engaged to her.
-1,6,"00:46:56,772","00:46:58,362",1.59,580,Maybe you could not control yourself.
-1,6,"00:46:58,440","00:47:01,650",3.21,581,How could she be pregnant when we were never this close?
-1,6,"00:47:02,486","00:47:04,606",2.12,582,Right. You are all talk.
-1,6,"00:47:04,696","00:47:05,856",1.16,583,What?
-1,6,"00:47:05,948","00:47:07,818",1.87,584,Then why did you refuse the chaste herb tea?
-1,6,"00:47:07,908","00:47:08,908",1.00,585,That is because…
-1,6,"00:47:11,328","00:47:12,998",1.67,586,I have plans to marry later on.
-1,6,"00:47:14,831","00:47:16,581",1.75,587,You must want to get married one day.
-1,6,"00:47:17,876","00:47:19,416",1.54,588,"Yes, I do."
-1,6,"00:47:19,503","00:47:20,633",1.13,589,I truly want to.
-1,6,"00:47:21,380","00:47:23,920",2.54,590,I will get married at all costs.
-1,6,"00:47:24,007","00:47:25,257",1.25,591,Wait up.
-1,6,"00:47:40,482","00:47:42,192",1.71,592,Why did you want to see me?
-1,6,"00:47:42,985","00:47:46,405",3.42,593,When will the mother-of-pearl cabinet that I ordered from Songrim come?
-1,6,"00:47:47,030","00:47:48,280",1.25,594,It is for Uk and me.
-1,6,"00:47:48,365","00:47:52,365",4.00,595,The trade from the south will arrive in two weeks.
-1,6,"00:47:53,120","00:47:54,410",1.29,596,That will be too late.
-1,6,"00:47:55,414","00:47:56,874",1.46,597,I should have ordered sooner.
-1,6,"00:47:56,957","00:47:58,827",1.87,598,Forget about the mother-of-pearl cabinet.
-1,6,"00:47:59,376","00:48:01,296",1.92,599,You should inform Uk first.
-1,6,"00:48:02,629","00:48:03,959",1.33,600,He has no idea about this.
-1,6,"00:48:06,049","00:48:08,679",2.63,601,That is why I have written a letter to him.
-1,6,"00:48:09,469","00:48:10,929",1.46,602,Read it and share your thoughts.
-1,6,"00:48:12,639","00:48:13,769",1.13,603,Sure.
-1,6,"00:48:17,477","00:48:18,597",1.12,604,It is fragrant.
-1,6,"00:48:18,687","00:48:20,977",2.29,605,This is a perfume that incurs the feeling of love.
-1,6,"00:48:21,898","00:48:23,358",1.46,606,A treasure of Jinyowon.
-1,6,"00:48:25,110","00:48:27,740",2.63,607,"Gosh, it is very fragrant."
-1,6,"00:48:49,551","00:48:51,301",1.75,608,Why are you sniffing it?
-1,6,"00:48:51,386","00:48:52,346",0.96,609,Stop that!
-1,6,"00:48:53,472","00:48:55,392",1.92,610,Hold your nostrils shut!
-1,6,"00:49:07,736","00:49:09,566",1.83,611,I almost wasted the precious perfume.
-1,6,"00:49:12,783","00:49:14,493",1.71,612,Please give this to him.
-1,6,"00:49:15,077","00:49:18,287",3.21,613,And make sure there are no women around him when he opens it.
-1,6,"00:49:21,083","00:49:21,923",0.84,614,I will.
-1,6,"00:49:27,255","00:49:28,375",1.12,615,What are you doing?
-1,6,"00:49:28,465","00:49:33,135",4.67,616,"Uk's hand size is similar to yours, right?"
-1,6,"00:49:35,138","00:49:36,348",1.21,617,Why do you ask?
-1,6,"00:49:37,140","00:49:39,640",2.50,618,Come with me to get our wedding rings.
-1,6,"00:49:39,726","00:49:41,056",1.33,619,Lend me your hand.
-1,6,"00:49:41,812","00:49:44,272",2.46,620,Why would I go there with you?
-1,6,"00:49:44,356","00:49:45,516",1.16,621,Go with your groom.
-1,6,"00:49:46,566","00:49:50,696",4.13,622,Marriage should only happen when both sides agree to it.
-1,6,"00:49:51,321","00:49:54,071",2.75,623,I pity you for being like this.
-1,6,"00:49:55,367","00:49:56,197",0.83,624,Why?
-1,6,"00:49:57,786","00:49:59,746",1.96,625,Do you think I am getting ahead of myself?
-1,6,"00:50:00,455","00:50:02,495",2.04,626,Do you think he will break it off again?
-1,6,"00:50:07,462","00:50:13,137",5.68,627,"Whether you are getting ahead of yourself or not, I will help you."
-1,6,"00:50:13,969","00:50:15,139",1.17,628,Just make sure it pans out.
-1,6,"00:50:20,183","00:50:21,943",1.76,629,And I will lend you my hand.
-1,6,"00:50:31,111","00:50:37,580",6.47,630,"Come to think of it, Maidservant Kim was against the idea of me living with the wife's family the last time we discussed marriage with Cho-yeon."
-1,6,"00:50:38,952","00:50:42,252",3.30,631,There is only one reason why this is being discussed again.
-1,6,"00:50:42,748","00:50:43,958",1.21,632,She wants to save me.
-1,6,"00:50:44,541","00:50:49,207",4.67,633,She must have made a deal with the Jin family to avoid your duel with the Crown Prince.
-1,6,"00:50:49,296","00:50:51,296",2.00,634,She probably needed Lady Jin's help.
-1,6,"00:50:52,758","00:50:56,847",4.09,635,"If that were the case, will you get married?"
-1,6,"00:50:58,597","00:51:01,597",3.00,636,"What should I do, Master?"
-1,6,"00:50:58,597","00:51:01,597",3.00,637,Should I get married?
-1,6,"00:51:03,977","00:51:05,097",1.12,638,Can I?
-1,6,"00:51:06,938","00:51:10,648",3.71,639,"If you do, we can no longer stay in Danghyanggok."
-1,6,"00:51:11,234","00:51:13,154",1.92,640,Right. I should return home.
-1,6,"00:51:13,236","00:51:15,446",2.21,641,"Even still, we cannot have this relationship."
-1,6,"00:51:15,530","00:51:18,410",2.88,642,Why not? I can still keep you by my side as my maid.
-1,6,"00:51:20,619","00:51:23,289",2.67,643,I have no plans to stay by your side as just a maid.
-1,6,"00:51:41,515","00:51:43,135",1.62,644,You can go ahead alone.
-1,6,"00:51:43,225","00:51:44,725",1.50,645,I will be at Chwiseonru.
-1,6,"00:51:46,061","00:51:49,151",3.09,646,"If you do not pick me up, I will go back alone."
-1,6,"00:52:03,870","00:52:05,620",1.75,647,CHWISEONRU
-1,6,"00:52:11,086","00:52:12,086",1.00,648,What is going on?
-1,6,"00:52:12,170","00:52:13,840",1.67,649,We are from Cheonbugwan.
-1,6,"00:52:13,922","00:52:15,802",1.88,650,We were told to escort you.
-1,6,"00:52:15,882","00:52:16,722",0.84,651,Let us go.
-1,6,"00:52:20,136","00:52:22,056",1.92,652,This is the Crown Prince's sachet.
-1,6,"00:52:22,138","00:52:25,808",3.67,653,I have His Royal Highness' protection.
-1,6,"00:52:22,138","00:52:25,808",3.67,654,You cannot touch me.
-1,6,"00:52:29,020","00:52:31,480",2.46,655,What are you doing? Let me go!
-1,6,"00:52:31,565","00:52:33,435",1.87,656,This is the Crown Prince's sachet.
-1,6,"00:52:45,453","00:52:47,663",2.21,657,We brought her from Chwiseonru like he wanted.
-1,6,"00:52:48,290","00:52:50,080",1.79,658,Chwiseonru?
-1,6,"00:52:58,884","00:53:01,304",2.42,659,"The girl you wanted is here, Your Royal Highness."
-1,6,"00:53:01,928","00:53:03,048",1.12,660,Where?
-1,6,"00:53:06,766","00:53:07,846",1.08,661,Over here.
-1,6,"00:53:10,186","00:53:11,146",0.96,662,Her?
-1,6,"00:53:11,688","00:53:13,268",1.58,663,Lift your head up.
-1,6,"00:53:29,623","00:53:31,253",1.63,664,Why are you dressed like that?
-1,6,"00:53:31,833","00:53:33,343",1.51,665,I do not know.
-1,6,"00:53:33,877","00:53:37,087",3.21,666,She did this to me after I was dragged here.
-1,6,"00:53:38,048","00:53:40,218",2.17,667,Did you do that?
-1,6,"00:53:40,300","00:53:44,511",4.21,668,Is she not the gisaeng from Chwiseonru?
-1,6,"00:53:45,680","00:53:46,850",1.17,669,"No, she is not."
-1,6,"00:53:48,391","00:53:50,811",2.42,670,She is Filthy Mu-deok.
-1,6,"00:53:48,391","00:53:50,811",2.42,671,Filthy?
-1,6,"00:53:52,896","00:53:54,146",1.25,672,Get out.
-1,6,"00:53:55,065","00:53:56,315",1.25,673,Go.
-1,6,"00:53:59,444","00:54:00,704",1.26,674,Look at you.
-1,6,"00:54:04,908","00:54:06,908",2.00,675,Why did you want to see me?
-1,6,"00:54:06,993","00:54:10,833",3.84,676,"I had something to tell you, so I told them to get you."
-1,6,"00:54:10,914","00:54:12,924",2.01,677,But you are not Filthy Mu-deok right now.
-1,6,"00:54:12,999","00:54:14,629",1.63,678,Filth and silk do not go hand in hand.
-1,6,"00:54:15,335","00:54:17,915",2.58,679,"Maybe in your dictionary, it does."
-1,6,"00:54:18,964","00:54:20,344",1.38,680,Did you just snap at me?
-1,6,"00:54:20,423","00:54:21,973",1.55,681,"No, Your Royal Highness."
-1,6,"00:54:22,050","00:54:25,010",2.96,682,I am grateful that you dressed someone as filthy as me in silk.
-1,6,"00:54:26,638","00:54:33,138",6.50,683,All right. This new look… does not suit you.
-1,6,"00:54:35,939","00:54:40,744",4.81,684,"Since you do not like it and I am uncomfortable in this, let me go get changed."
-1,6,"00:54:40,819","00:54:41,899",1.08,685,No.
-1,6,"00:54:43,071","00:54:45,661",2.59,686,It is all right. Just keep it on.
-1,6,"00:54:48,118","00:54:52,208",4.09,687,"Tell me what you want, and I will do it."
-1,6,"00:54:52,288","00:54:56,498",4.21,688,Tell your young master not to show up that day.
-1,6,"00:54:57,669","00:55:02,257",4.59,689,I do not want to kill him and become enemies with Songrim or the Jang family.
-1,6,"00:55:02,966","00:55:05,256",2.29,690,"It is best that he fled, and let us keep it that way."
-1,6,"00:55:06,803","00:55:09,263",2.46,691,So he just needs to be the laughingstock.
-1,6,"00:55:09,931","00:55:10,971",1.04,692,That is right.
-1,6,"00:55:11,599","00:55:14,889",3.29,693,"If he becomes stubborn, dissuade him."
-1,6,"00:55:14,978","00:55:16,898",1.92,694,He will die if he fights me.
-1,6,"00:55:19,482","00:55:22,612",3.13,695,"Tell him to stay hidden, then get married to the Jin family."
-1,6,"00:55:23,903","00:55:26,993",3.09,696,So it is true that getting married will save his life.
-1,6,"00:55:29,743","00:55:32,043",2.30,697,What will happen to you if he gets married?
-1,6,"00:55:32,120","00:55:33,250",1.13,698,Will you go with him?
-1,6,"00:55:33,913","00:55:35,213",1.30,699,"No, I will not."
-1,6,"00:55:35,832","00:55:38,502",2.67,700,Why not? Did he refuse?
-1,6,"00:55:40,920","00:55:43,800",2.88,701,You were even willing to drink filthy chamber pot water for him.
-1,6,"00:55:43,882","00:55:46,973",3.09,702,He knows neither loyalty nor duty.
-1,6,"00:55:48,178","00:55:52,388",4.21,703,"He does know a bit, Your Royal Highness."
-1,6,"00:55:52,474","00:55:54,894",2.42,704,Are you taking his side?
-1,6,"00:55:52,474","00:55:54,894",2.42,705,You were always bad-mouthing him.
-1,6,"00:55:54,976","00:55:56,766",1.79,706,"I am sorry, Your Royal Highness."
-1,6,"00:55:57,729","00:56:00,019",2.29,707,It would please you if I bad-mouthed him.
-1,6,"00:56:00,857","00:56:04,607",3.75,708,But I have no energy to run my mouth right now.
-1,6,"00:56:06,154","00:56:08,784",2.63,709,You are a filthy mutt who will be abandoned by its owner.
-1,6,"00:56:20,126","00:56:21,166",1.04,710,Should I take you in?
-1,6,"00:56:23,296","00:56:24,546",1.25,711,I can do that.
-1,6,"00:56:25,131","00:56:27,431",2.30,712,There must be things you can do here too.
-1,6,"00:56:28,760","00:56:29,640",0.88,713,"No, thank you."
-1,6,"00:56:31,054","00:56:37,306",6.25,714,"I may be a filthy girl whom everyone avoids, but I refuse to serve just anyone."
-1,6,"00:56:40,814","00:56:43,444",2.63,715,Forget it. I do not want someone filthy by my side either.
-1,6,"00:56:44,067","00:56:46,107",2.04,716,You may leave.
-1,6,"00:56:44,067","00:56:46,107",2.04,717,"Yes, Your Royal Highness."
-1,6,"00:56:51,658","00:56:55,035",3.38,718,"I will go now, Your Royal Highness."
-1,6,"00:57:04,587","00:57:05,957",1.37,719,"""Just anyone""?"
-1,6,"00:57:07,298","00:57:08,588",1.29,720,But I am the Crown Prince.
-1,6,"00:57:08,675","00:57:12,300",3.62,721,Filthy Mu-deok does not know to whom she is speaking.
-1,6,"00:57:29,779","00:57:32,529",2.75,722,Be gentle. Take your time.
-1,6,"00:57:29,779","00:57:32,529",2.75,723,"Yes, ma'am."
-1,6,"00:57:34,659","00:57:35,489",0.83,724,Maidservant Kim.
-1,6,"00:57:36,911","00:57:37,791",0.88,725,How have you been?
-1,6,"00:57:39,038","00:57:40,118",1.08,726,Young Master!
-1,6,"00:57:40,748","00:57:42,248",1.50,727,My dear Young Master!
-1,6,"00:57:44,252","00:57:46,132",1.88,728,Young Master!
-1,6,"00:57:44,252","00:57:46,132",1.88,729,Were you worried?
-1,6,"00:57:46,212","00:57:47,422",1.21,730,Have you been eating well?
-1,6,"00:57:47,505","00:57:49,125",1.62,731,"Yes, I have. I have been well."
-1,6,"00:57:49,215","00:57:50,675",1.46,732,Goodness.
-1,6,"00:57:50,758","00:57:52,258",1.50,733,Your skin is radiating.
-1,6,"00:57:52,343","00:57:53,473",1.13,734,"Oh, please."
-1,6,"00:57:53,553","00:57:54,853",1.30,735,Let us go inside.
-1,6,"00:57:58,516","00:58:00,346",1.83,736,Was she the one who tried to sell…
-1,6,"00:58:03,021","00:58:04,401",1.38,737,Songrim's Spirit Plaque?
-1,6,"00:58:12,322","00:58:14,412",2.09,738,It was not me. It was Mu-deok.
-1,6,"00:58:15,200","00:58:17,410",2.21,739,Mu-deok tried to sell Uk's Spirit Plaque?
-1,6,"00:58:17,494","00:58:19,754",2.26,740,I just introduced her to the seller.
-1,6,"00:58:19,829","00:58:21,829",2.00,741,"In the end, Ae-hyang snatched it herself."
-1,6,"00:58:21,915","00:58:23,875",1.96,742,So Mu-deok and I are innocent.
-1,6,"00:58:41,601","00:58:42,891",1.29,743,What is this?
-1,6,"00:58:44,270","00:58:46,520",2.25,744,Why are you dressed like that?
-1,6,"00:58:47,273","00:58:48,983",1.71,745,It is a long story.
-1,6,"00:58:49,067","00:58:51,817",2.75,746,Have you returned to Chwiseonru?
-1,6,"00:58:52,695","00:58:54,945",2.25,747,Did Uk send you back since he is getting married?
-1,6,"00:58:55,031","00:58:56,321",1.29,748,"No, Young Master Seo."
-1,6,"00:58:56,407","00:59:00,327",3.92,749,"Even if that was the case, I would never come back here."
-1,6,"00:59:00,411","00:59:04,207",3.80,750,Ju-wol finally caved in and told me that you tried to sell Uk's Spirit Plaque.
-1,6,"00:59:07,544","00:59:09,384",1.84,751,"Yes, I did."
-1,6,"00:59:10,255","00:59:11,165",0.91,752,Why?
-1,6,"00:59:12,298","00:59:14,048",1.75,753,Because I needed money.
-1,6,"00:59:14,133","00:59:19,428",5.30,754,"I wanted to wear pretty clothes, have good food, and have fun at places like this."
-1,6,"00:59:19,514","00:59:23,024",3.51,755,Was that the case when you were drunk last time?
-1,6,"00:59:23,935","00:59:27,185",3.25,756,That is correct. I stole Young Master Jang's money and drank.
-1,6,"00:59:31,776","00:59:33,816",2.04,757,I am just so puzzled by you.
-1,6,"00:59:35,530","00:59:38,030",2.50,758,I cannot understand you.
-1,6,"00:59:41,452","00:59:43,752",2.30,759,You do not need to.
-1,6,"00:59:43,830","00:59:45,620",1.79,760,Just stay that way.
-1,6,"00:59:47,709","00:59:49,339",1.63,761,I am going inside.
-1,6,"00:59:49,419","00:59:51,089",1.67,762,Would you like to come with me?
-1,6,"00:59:51,879","00:59:52,799",0.92,763,That is all right.
-1,6,"00:59:54,048","00:59:55,168",1.12,764,"Goodbye, then."
-1,6,"01:00:00,847","01:00:04,477",3.63,765,CHWISEONRU
-1,6,"01:00:08,354","01:00:09,814",1.46,766,The Spirit Plaque…
-1,6,"01:00:11,190","01:00:14,360",3.17,767,"So it was you, Naksu."
-1,6,"01:00:24,495","01:00:25,615",1.12,768,Young Master.
-1,6,"01:00:27,415","01:00:29,415",2.00,769,Why do you not want to get married?
-1,6,"01:00:31,252","01:00:32,802",1.55,770,Do you dislike Young Lady Jin?
-1,6,"01:00:32,879","01:00:35,209",2.33,771,It is not that I dislike her.
-1,6,"01:00:36,257","01:00:38,127",1.87,772,I am just not interested.
-1,6,"01:00:38,760","01:00:40,890",2.13,773,"You have feelings for someone else, do you not?"
-1,6,"01:00:42,263","01:00:43,473",1.21,774,Who is it?
-1,6,"01:00:44,057","01:00:45,557",1.50,775,Do I know her?
-1,6,"01:00:46,559","01:00:48,599",2.04,776,"No, you do not."
-1,6,"01:00:49,187","01:00:50,397",1.21,777,So there is one.
-1,6,"01:00:50,480","01:00:51,730",1.25,778,I knew it.
-1,6,"01:00:51,814","01:00:52,864",1.05,779,Who is she?
-1,6,"01:00:54,400","01:00:55,440",1.04,780,Well…
-1,6,"01:00:55,526","01:00:58,446",2.92,781,She is like a single bird egg on top of a tree.
-1,6,"01:00:59,072","01:01:02,622",3.55,782,"I am the only one she has, so how could I possibly get married?"
-1,6,"01:01:02,700","01:01:05,620",2.92,783,Those kinds of girls are the most dangerous!
-1,6,"01:01:05,703","01:01:07,963",2.26,784,Those who have nothing to brag about but are just clingy!
-1,6,"01:01:08,039","01:01:09,539",1.50,785,She is not like that.
-1,6,"01:01:09,624","01:01:12,094",2.47,786,Who is she? Tell me this instant.
-1,6,"01:01:12,168","01:01:13,458",1.29,787,I will take care of it.
-1,6,"01:01:13,544","01:01:14,714",1.17,788,Exactly how?
-1,6,"01:01:14,796","01:01:19,930",5.13,789,"Once I give her a silk pouch full of money, she will crack out of her egg and fly away."
-1,6,"01:01:20,009","01:01:23,429",3.42,790,She cannot fly anywhere.
-1,6,"01:01:20,009","01:01:23,429",3.42,791,It is not that easy.
-1,6,"01:01:24,722","01:01:26,852",2.13,792,"In any case, I cannot get married."
-1,6,"01:01:26,933","01:01:28,143",1.21,793,So take care of it for me.
-1,6,"01:01:29,102","01:01:31,272",2.17,794,"You better take care of it, got that?"
-1,6,"01:01:32,063","01:01:33,403",1.34,795,Young Master.
-1,6,"01:01:35,900","01:01:38,610",2.71,796,What is wrong? Are you hurt?
-1,6,"01:01:38,695","01:01:39,945",1.25,797,Let me see.
-1,6,"01:01:42,115","01:01:44,025",1.91,798,What happened to your arm?
-1,6,"01:01:45,827","01:01:47,497",1.67,799,Did it get out of control again?
-1,6,"01:01:54,711","01:01:56,341",1.63,800,Please sell that dress.
-1,6,"01:01:56,421","01:02:00,051",3.63,801,"It is made of silk, so make it worth it."
-1,6,"01:01:56,421","01:02:00,051",3.63,802,All right.
-1,6,"01:02:00,633","01:02:03,093",2.46,803,Our madam is tending to a customer at the moment.
-1,6,"01:02:03,177","01:02:04,887",1.71,804,Young Lady Jin from Jinyowon is here.
-1,6,"01:02:05,638","01:02:09,178",3.54,805,She is looking for someone who can craft her wedding rings.
-1,6,"01:02:09,267","01:02:11,097",1.83,806,She is marrying a young master from Songrim.
-1,6,"01:02:15,064","01:02:17,324",2.26,807,Then how about this one?
-1,6,"01:02:20,319","01:02:24,029",3.71,808,These are the works of Daeho's best craftsmen?
-1,6,"01:02:25,825","01:02:28,695",2.87,809,They are stylish but a bit tacky.
-1,6,"01:02:30,329","01:02:32,579",2.25,810,Then may I see the yin-and-yang jade?
-1,6,"01:02:32,665","01:02:35,325",2.66,811,Seeing it for myself will help me give you better recommendations.
-1,6,"01:02:40,173","01:02:44,758",4.59,812,"They say when you and your lover wear rings made of that, your love for each other deepens."
-1,6,"01:02:58,983","01:03:00,693",1.71,813,Why did the jade break?
-1,6,"01:03:01,527","01:03:03,907",2.38,814,It was fine when I took it with me.
-1,6,"01:03:09,702","01:03:12,412",2.71,815,I see. That is when it broke.
-1,6,"01:03:15,416","01:03:16,496",1.08,816,Mu-deok.
-1,6,"01:03:23,174","01:03:24,434",1.26,817,Young Lady Jin.
-1,6,"01:03:25,009","01:03:27,299",2.29,818,Why are you suddenly leaving?
-1,6,"01:03:27,386","01:03:30,466",3.08,819,That is Mu-deok. Is Uk here as well?
-1,6,"01:03:30,556","01:03:31,766",1.21,820,No.
-1,6,"01:03:33,100","01:03:35,730",2.63,821,I see.
-1,6,"01:03:33,100","01:03:37,612",4.51,822,"Since they are attached at the hip, he must be somewhere in the fortress."
-1,6,"01:03:37,688","01:03:39,478",1.79,823,Attached at the hip?
-1,6,"01:03:39,565","01:03:41,275",1.71,824,"As his maid, she is serving him."
-1,6,"01:03:42,401","01:03:43,821",1.42,825,Watch what you say.
-1,6,"01:03:45,279","01:03:48,869",3.59,826,Mu-deok is not just any ordinary maid to him.
-1,6,"01:03:50,034","01:03:53,504",3.47,827,He came by to pick Mu-deok up when she was drunk recently.
-1,6,"01:03:54,163","01:03:55,963",1.80,828,He adores her so much.
-1,6,"01:03:56,040","01:03:58,540",2.50,829,He even carried her on his back.
-1,6,"01:03:59,210","01:04:03,921",4.71,830,It is obvious that he picked her from the get-go because she won his heart.
-1,6,"01:04:04,465","01:04:07,755",3.29,831,Is Mu-deok from here? Was she a gisaeng?
-1,6,"01:04:07,844","01:04:09,304",1.46,832,She is one poor girl.
-1,6,"01:04:09,971","01:04:13,271",3.30,833,No wonder he cares about her so much.
-1,6,"01:04:27,613","01:04:28,663",1.05,834,Hey.
-1,6,"01:04:29,282","01:04:31,082",1.80,835,"You know who I am, right?"
-1,6,"01:04:32,451","01:04:34,581",2.13,836,"Of course, I do."
-1,6,"01:04:34,662","01:04:37,122",2.46,837,You are Young Lady Jin from Jinyowon.
-1,6,"01:04:39,125","01:04:42,245",3.12,838,"You will have to address me as ""Lady"" soon."
-1,6,"01:04:43,462","01:04:47,132",3.67,839,Because I will marry your young master soon.
-1,6,"01:04:48,676","01:04:51,386",2.71,840,"Goodness. Congratulations, my lady."
-1,6,"01:04:51,470","01:04:54,680",3.21,841,"As your master's wife, you will serve me too."
-1,6,"01:04:56,100","01:04:57,640",1.54,842,There is something you must do.
-1,6,"01:04:59,896","01:05:01,606",1.71,843,"First, carry this."
-1,6,"01:05:02,648","01:05:04,278",1.63,844,What is this?
-1,6,"01:05:11,115","01:05:12,405",1.29,845,What was that?
-1,6,"01:05:13,576","01:05:15,236",1.66,846,A broken stone?
-1,6,"01:05:17,830","01:05:20,250",2.42,847,It is a precious object.
-1,6,"01:05:20,333","01:05:24,593",4.26,848,"If it breaks or cracks, you will have to take responsibility."
-1,6,"01:05:25,713","01:05:28,383",2.67,849,Is she saying that when it is already broken?
-1,6,"01:05:29,300","01:05:30,340",1.04,850,Take that and follow me.
-1,6,"01:05:31,594","01:05:32,724",1.13,851,My lady.
-1,6,"01:05:33,471","01:05:35,311",1.84,852,You are not someone I must serve yet.
-1,6,"01:05:35,932","01:05:38,642",2.71,853,I must go to Young Master Jang now. Goodbye.
-1,6,"01:05:42,939","01:05:45,479",2.54,854,Is she looking down on me?
-1,6,"01:05:53,240","01:05:55,790",2.55,855,Was that real back there?
-1,6,"01:06:06,379","01:06:08,759",2.38,856,It is best that I do not cross paths with him.
-1,6,"01:06:10,883","01:06:12,933",2.05,857,Hey! You!
-1,6,"01:06:15,012","01:06:15,932",0.92,858,The dangerous man?
-1,6,"01:06:17,765","01:06:19,225",1.46,859,Or this mean brat?
-1,6,"01:06:20,810","01:06:21,890",1.08,860,My lady.
-1,6,"01:06:22,687","01:06:25,057",2.37,861,Give that to me. I will carry it.
-1,6,"01:06:28,275","01:06:29,395",1.12,862,Sure.
-1,6,"01:06:29,485","01:06:32,025",2.54,863,Make sure you do not break it.
-1,6,"01:06:36,617","01:06:38,117",1.50,864,So it is broken.
-1,6,"01:06:38,703","01:06:40,913",2.21,865,She is going to put the blame on me.
-1,6,"01:07:09,817","01:07:11,817",2.00,866,Is this the Jin family's abode?
-1,6,"01:07:44,602","01:07:46,062",1.46,867,Why are you not coming?
-1,6,"01:07:58,324","01:07:59,374",1.05,868,Mother.
-1,6,"01:08:21,055","01:08:22,675",1.62,869,You cannot leave like this.
-1,6,"01:08:23,974","01:08:27,354",3.38,870,Say that you will marry her in front of your late mother's portrait.
-1,6,"01:08:27,436","01:08:29,976",2.54,871,That is the only way to protect your father's position.
-1,6,"01:08:32,399","01:08:33,729",1.33,872,Maidservant Kim.
-1,6,"01:08:33,818","01:08:38,200",4.38,873,Do you think I really am my father's son?
-1,6,"01:08:41,742","01:08:46,081",4.34,874,Do you know who my real father is?
-1,6,"01:08:47,748","01:08:49,418",1.67,875,What do you mean?
-1,6,"01:08:50,334","01:08:52,554",2.22,876,You are Gwanju Jang Gang's son.
-1,6,"01:08:54,463","01:08:56,673",2.21,877,Yes. That is what I believed all my life.
-1,6,"01:08:56,757","01:08:58,587",1.83,878,I do not want to deny it now.
-1,6,"01:08:58,676","01:08:59,636",0.96,879,So…
-1,6,"01:09:01,720","01:09:03,720",2.00,880,I will not sit still.
-1,6,"01:09:05,182","01:09:09,015",3.83,881,Do not stop me no matter what I do.
-1,6,"01:09:17,027","01:09:20,157",3.13,882,"Maidservant Kim, the Jin family sent someone."
-1,6,"01:09:20,739","01:09:23,079",2.34,883,From Jinyowon? What is it about?
-1,6,"01:09:23,159","01:09:24,619",1.46,884,Something happened there.
-1,6,"01:09:25,494","01:09:28,584",3.09,885,They want Young Master Jang to hurry over.
-1,6,"01:10:09,455","01:10:10,745",1.29,886,You were looking for me?
-1,6,"01:10:10,831","01:10:12,121",1.29,887,What is this about?
-1,6,"01:10:12,708","01:10:15,418",2.71,888,A precious treasure of ours has disappeared.
-1,6,"01:10:16,212","01:10:20,802",4.59,889,And an individual has disappeared with it.
-1,6,"01:10:28,140","01:10:30,890",2.75,890,So this is Jinyowon.
-1,6,"01:10:39,360","01:10:40,440",1.08,891,Hey.
-1,6,"01:10:47,701","01:10:49,201",1.50,892,So it is you.
-1,6,"01:10:53,332","01:10:54,922",1.59,893,It has been a long time.
-1,6,"01:11:25,197","01:11:26,487",1.29,894,You are saying Mu-deok
-1,6,"01:11:27,366","01:11:30,036",2.67,895,disappeared here?
-1,6,"01:11:27,366","01:11:30,036",2.67,896,Yes.
-1,6,"01:11:30,619","01:11:35,166",4.55,897,"Your maid, Mu-deok, stole our yin-and-yang jade and ran away."
+1,6,"00:24:12,409","00:24:18,077",5.67,347,How… is Uk doing?
+1,6,"00:24:20,709","00:24:23,249",2.54,348,He is doing well. He fishes and drinks.
+1,6,"00:24:24,337","00:24:26,457",2.12,349,He has yet to unfasten the binding bracelet.
+1,6,"00:24:28,800","00:24:29,890",1.09,350,You may go.
+1,6,"00:24:51,156","00:24:52,616",1.46,351,It is not that heavy anymore.
+1,6,"00:24:52,699","00:24:54,239",1.54,352,It does not hinder my movement either.
+1,6,"00:24:54,326","00:24:59,035",4.71,353,Some mages train with an iron rod to strengthen their arms to better wield their swords.
+1,6,"00:24:59,539","00:25:05,002",5.46,354,You were unknowingly strengthening yourself by wearing that heavy bracelet all day.
+1,6,"00:25:05,086","00:25:08,878",3.79,355,"It was not intentional, but you found yourself an excellent training tool."
+1,6,"00:25:10,175","00:25:11,715",1.54,356,You are extraordinarily lucky.
+1,6,"00:25:11,801","00:25:15,181",3.38,357,"If I take this off, I will be faster and stronger."
+1,6,"00:25:15,764","00:25:19,234",3.47,358,"But if you fail to control yourself, you will become even more reckless."
+1,6,"00:25:20,977","00:25:22,017",1.04,359,I…
+1,6,"00:25:22,687","00:25:23,687",1.00,360,Never mind.
+1,6,"00:25:27,609","00:25:30,699",3.09,361,What did you and Yul talk about?
+1,6,"00:25:33,114","00:25:34,624",1.51,362,About Danhyanggok.
+1,6,"00:25:36,618","00:25:39,618",3.00,363,He asked how it was during the winter.
+1,6,"00:25:43,792","00:25:48,089",4.30,364,You have met Naksu when you were young?
+1,6,"00:25:50,048","00:25:53,088",3.04,365,I was still unsure after seeing her body.
+1,6,"00:25:53,176","00:25:55,716",2.54,366,But going to Danhyanggok helped me confirm it.
+1,6,"00:25:55,804","00:25:56,894",1.09,367,That is why I am telling you now.
+1,6,"00:25:57,973","00:26:01,773",3.80,368,Danhyanggok is a deep and dangerous valley.
+1,6,"00:26:01,851","00:26:04,521",2.67,369,A young girl cannot possibly survive there on her own.
+1,6,"00:26:04,604","00:26:07,324",2.72,370,It seemed like she was living in hiding.
+1,6,"00:26:08,733","00:26:13,781",5.05,371,"After she learned of my name and my family, I was not able to see her again."
+1,6,"00:26:14,990","00:26:17,450",2.46,372,That must mean she recognized your name.
+1,6,"00:26:18,243","00:26:21,333",3.09,373,Tell me everything you know about her.
+1,6,"00:26:24,124","00:26:25,504",1.38,374,There is nothing.
+1,6,"00:26:26,126","00:26:27,876",1.75,375,I do not know her name or age.
+1,6,"00:26:28,545","00:26:32,165",3.62,376,"Other than the cliff where we called out for birds, I have never been to her abode."
+1,6,"00:26:36,303","00:26:37,263",0.96,377,There is one thing.
+1,6,"00:26:40,181","00:26:42,101",1.92,378,She once mentioned her father.
+1,6,"00:26:53,153","00:26:56,913",3.76,379,My father wrote down the stars.
+1,6,"00:26:58,825","00:27:01,235",2.41,380,I did not think much of it back then.
+1,6,"00:27:01,328","00:27:05,619",4.29,381,But writing down the stars is what a constellation recorder from Cheonbugwan does.
+1,6,"00:27:07,000","00:27:08,130",1.13,382,My lord.
+1,6,"00:27:08,626","00:27:13,665",5.04,383,"Among their constellation recorder mages, do any of them have a grudge against us?"
+1,6,"00:27:16,676","00:27:20,644",3.97,384,A constellation recorder from Cheonbugwan?
+1,6,"00:27:22,640","00:27:23,730",1.09,385,A mage?
+1,6,"00:27:28,563","00:27:35,569",7.01,386,"Twenty years ago, there was one constellation recorder mage who died in the hands of the four families."
+1,6,"00:27:37,447","00:27:40,737",3.29,387,His entire family lost their lives that day.
+1,6,"00:27:41,409","00:27:42,829",1.42,388,Except for one member.
+1,6,"00:27:42,911","00:27:45,711",2.80,389,His one and only daughter disappeared.
+1,6,"00:28:12,107","00:28:16,863",4.76,390,So our family was involved in her father's death.
+1,6,"00:28:17,445","00:28:21,569",4.12,391,She must have been hostile toward you because your family was involved in her father's death.
+1,6,"00:28:21,658","00:28:24,578",2.92,392,Is there anything else that you remember?
+1,6,"00:28:25,161","00:28:26,831",1.67,393,This was a very long time ago.
+1,6,"00:28:27,872","00:28:29,582",1.71,394,I do not remember anything else.
+1,6,"00:28:52,564","00:28:54,274",1.71,395,Because I missed them.
+1,6,"00:28:55,567","00:28:57,777",2.21,396,The broken leg did not bother me.
+1,6,"00:28:57,861","00:28:59,651",1.79,397,And I was not scared to get scolded.
+1,6,"00:29:04,075","00:29:05,905",1.83,398,I liked them a lot.
+1,6,"00:29:15,128","00:29:19,258",4.13,399,I saw you using that to summon your bird a few times.
+1,6,"00:29:21,176","00:29:22,426",1.25,400,I would also like to try.
+1,6,"00:29:23,428","00:29:25,348",1.92,401,Can I have that?
+1,6,"00:30:21,236","00:30:22,856",1.62,402,The Crown Prince is powerful.
+1,6,"00:30:23,488","00:30:27,908",4.42,403,There is only one way my pupil can subdue him and stay alive.
+1,6,"00:30:28,827","00:30:30,197",1.37,404,Tansu.
+1,6,"00:31:04,237","00:31:05,987",1.75,405,What do you want me to do?
+1,6,"00:31:07,699","00:31:09,619",1.92,406,Slice through the water drops as they fall.
+1,6,"00:31:11,035","00:31:12,325",1.29,407,They are not raindrops.
+1,6,"00:31:12,412","00:31:17,333",4.92,408,Even someone unskilled as you can slice through such slow-moving water drops.
+1,6,"00:31:18,001","00:31:18,881",0.88,409,Go on.
+1,6,"00:31:40,189","00:31:42,069",1.88,410,Only three drops in one breath.
+1,6,"00:31:42,942","00:31:44,112",1.17,411,That does not matter.
+1,6,"00:31:44,193","00:31:47,743",3.55,412,"Tansu, the skill you will master, will only require you to slice one."
+1,6,"00:31:47,822","00:31:48,952",1.13,413,Tansu?
+1,6,"00:31:50,491","00:31:51,661",1.17,414,Look here.
+1,6,"00:31:52,160","00:31:57,077",4.92,415,"I understand that I am a quick study, but mastering Tansu is pushing it."
+1,6,"00:31:57,165","00:31:59,745",2.58,416,I guess having 12 masters in the past has taught you something.
+1,6,"00:31:59,834","00:32:00,844",1.01,417,That is correct.
+1,6,"00:32:00,919","00:32:03,709",2.79,418,You can only learn that skill once you have mastered Chisu.
+1,6,"00:32:04,380","00:32:09,054",4.67,419,"You barely mastered Ryusu, yet you are still struggling to control your energy."
+1,6,"00:32:09,135","00:32:10,965",1.83,420,A subpar pupil like you cannot learn it.
+1,6,"00:32:12,305","00:32:13,425",1.12,421,But?
+1,6,"00:32:14,057","00:32:21,360",7.30,422,But that is the only way for you to fight against the Crown Prince and come out alive.
+1,6,"00:32:55,848","00:32:58,938",3.09,423,Tansu is swordsmanship that involves flicking energy with your sword.
+1,6,"00:32:59,018","00:33:04,111",5.09,424,"Your right arm may lack the skills, but it has become stronger thanks to the binding bracelet."
+1,6,"00:33:05,233","00:33:06,113",0.88,425,Just one drop.
+1,6,"00:33:07,193","00:33:10,203",3.01,426,Hit one waterdrop so you can gather and flick your energy.
+1,6,"00:33:22,542","00:33:24,292",1.75,427,You will not master it that quickly.
+1,6,"00:33:24,961","00:33:26,421",1.46,428,Let us eat and resume.
+1,6,"00:34:14,594","00:34:15,764",1.17,429,Tansu?
+1,6,"00:34:16,554","00:34:18,354",1.80,430,He will never master that skill.
+1,6,"00:34:21,059","00:34:26,654",5.59,431,That is not a relationship of a maid and her young master but that of a master and her pupil.
+1,6,"00:36:05,913","00:36:07,083",1.17,432,Mu-deok.
+1,6,"00:36:09,167","00:36:11,337",2.17,433,So you are training him.
+1,6,"00:36:14,380","00:36:16,260",1.88,434,I see he was studying Tansu.
+1,6,"00:36:17,133","00:36:18,343",1.21,435,Where did you learn that?
+1,6,"00:36:18,926","00:36:22,926",4.00,436,Young Master Jang is quite knowledgeable thanks to his former 12 masters.
+1,6,"00:36:23,014","00:36:25,064",2.05,437,Is he trying to run before learning to walk?
+1,6,"00:36:25,141","00:36:27,271",2.13,438,He has a long way to go.
+1,6,"00:36:27,351","00:36:29,601",2.25,439,"In any case, he should try."
+1,6,"00:36:30,188","00:36:32,898",2.71,440,His next step could lead him to his death.
+1,6,"00:36:36,903","00:36:39,113",2.21,441,Is your young master aware of that?
+1,6,"00:37:14,482","00:37:16,482",2.00,442,Why did you not dodge it?
+1,6,"00:37:16,567","00:37:17,647",1.08,443,Seriously.
+1,6,"00:37:33,501","00:37:35,751",2.25,444,That is the result of forcing your energy to come out.
+1,6,"00:37:36,921","00:37:38,971",2.05,445,Your arm could burst if this continues.
+1,6,"00:37:45,137","00:37:48,467",3.33,446,It looks like it could rot.
+1,6,"00:37:45,137","00:37:48,467",3.33,447,Then you will have to cut it off.
+1,6,"00:37:49,141","00:37:50,271",1.13,448,Are you serious?
+1,6,"00:37:54,438","00:37:59,400",4.96,449,"If the rotten energy spreads throughout your body, you could die."
+1,6,"00:38:19,130","00:38:21,380",2.25,450,The heat has subsided. You are fine.
+1,6,"00:38:21,465","00:38:23,085",1.62,451,Rest up. That is the best remedy.
+1,6,"00:38:23,884","00:38:24,894",1.01,452,What a liar.
+1,6,"00:38:27,054","00:38:28,854",1.80,453,"Everything he said was true, right?"
+1,6,"00:38:29,390","00:38:38,192",8.80,454,"But then again, whether I die of poison, flogging, being stabbed, or my hand exploding, this merciless master does not worry about her pupil."
+1,6,"00:38:39,775","00:38:41,185",1.41,455,That is right.
+1,6,"00:38:42,111","00:38:46,121",4.01,456,It is because you are extremely lucky and worthy.
+1,6,"00:38:46,866","00:38:49,196",2.33,457,Lying is becoming second nature to you.
+1,6,"00:38:52,371","00:38:54,461",2.09,458,I am just not trying to dispirit you.
+1,6,"00:38:55,041","00:38:58,211",3.17,459,"I see. Thank you, my cruel master."
+1,6,"00:38:58,294","00:39:00,884",2.59,460,But stay away when I am holding a sword from now on.
+1,6,"00:39:00,963","00:39:02,553",1.59,461,You almost got stabbed back there.
+1,6,"00:39:02,631","00:39:06,011",3.38,462,I only stood still because I wanted you to control it.
+1,6,"00:39:06,635","00:39:07,925",1.29,463,I was not trying to hinder you.
+1,6,"00:39:08,012","00:39:10,772",2.76,464,You were not hindering me.
+1,6,"00:39:08,012","00:39:10,772",2.76,465,I am just worried about you.
+1,6,"00:39:17,396","00:39:21,573",4.18,466,Think of me as a mother bird who is worried about her egg cracking.
+1,6,"00:39:19,523","00:39:21,573",2.05,467,Can you even relate?
+1,6,"00:39:21,650","00:39:24,200",2.55,468,Whatever. What you did barely made me crack.
+1,6,"00:39:24,278","00:39:25,398",1.12,469,I could have dodged it.
+1,6,"00:39:26,155","00:39:27,365",1.21,470,It was not dangerous?
+1,6,"00:39:27,448","00:39:29,658",2.21,471,How could you have dodged it when I was so fast?
+1,6,"00:39:29,742","00:39:31,412",1.67,472,You were not that fast.
+1,6,"00:39:32,078","00:39:33,448",1.37,473,You little…
+1,6,"00:39:35,289","00:39:36,869",1.58,474,"Could not dodge that, could you?"
+1,6,"00:39:36,957","00:39:38,457",1.50,475,You attacked without warning!
+1,6,"00:39:38,542","00:39:40,292",1.75,476,Really? Then I will warn you.
+1,6,"00:39:40,378","00:39:41,458",1.08,477,"Mu-deok, your eyes."
+1,6,"00:39:42,463","00:39:43,303",0.84,478,Jeez…
+1,6,"00:39:44,090","00:39:45,130",1.04,479,You bastard.
+1,6,"00:39:45,216","00:39:47,216",2.00,480,I cannot believe you fell for that again.
+1,6,"00:39:52,181","00:39:53,431",1.25,481,Do that again.
+1,6,"00:39:54,475","00:39:55,935",1.46,482,From this up close?
+1,6,"00:39:56,018","00:39:57,598",1.58,483,Really?
+1,6,"00:39:56,018","00:39:57,598",1.58,484,Try me.
+1,6,"00:40:02,316","00:40:03,436",1.12,485,Mu-deok.
+1,6,"00:40:04,693","00:40:06,863",2.17,486,The blue marks are barely visible now.
+1,6,"00:40:07,738","00:40:09,068",1.33,487,They were quite pretty.
+1,6,"00:40:12,952","00:40:16,542",3.59,488,And you should not provoke me when we are this close.
+1,6,"00:40:17,206","00:40:20,002",2.80,489,Do you not think I would do something else from this distance?
+1,6,"00:40:24,255","00:40:26,255",2.00,490,I guess you understood what I meant.
+1,6,"00:40:27,133","00:40:29,263",2.13,491,Maybe there are things I can teach you in this field.
+1,6,"00:40:33,722","00:40:34,892",1.17,492,Jang Uk.
+1,6,"00:40:38,144","00:40:41,864",3.72,493,You must think I am naive for having lived alone here.
+1,6,"00:40:43,274","00:40:44,574",1.30,494,"Well, I guess."
+1,6,"00:40:46,527","00:40:49,527",3.00,495,I will have you know I can teach you in other ways too.
+1,6,"00:40:50,739","00:40:51,869",1.13,496,Such as?
+1,6,"00:40:58,998","00:41:00,288",1.29,497,Hey! You…
+1,6,"00:41:00,374","00:41:05,746",5.37,498,A truly skilled individual attacks when their enemy least expects it.
+1,6,"00:41:06,297","00:41:08,127",1.83,499,"Keep that in mind, my pupil."
+1,6,"00:41:09,341","00:41:12,801",3.46,500,"Unlike me, you poked me really hard!"
+1,6,"00:41:12,887","00:41:14,507",1.62,501,Mu-deok.
+1,6,"00:41:16,182","00:41:18,522",2.34,502,Hey. Mu-deok.
+1,6,"00:41:28,736","00:41:30,526",1.79,503,Is that a new concubine?
+1,6,"00:41:31,363","00:41:34,453",3.09,504,He does not even bother to follow the formalities anymore.
+1,6,"00:41:35,075","00:41:37,325",2.25,505,She is from a small family of mages from the east.
+1,6,"00:41:37,411","00:41:40,661",3.25,506,A comet brushed past the Big Dipper the day she was born.
+1,6,"00:41:40,748","00:41:44,458",3.71,507,"At this rate, he will summon every woman born with strange horoscopes."
+1,6,"00:41:44,543","00:41:47,173",2.63,508,He just wants the King's Star.
+1,6,"00:41:58,182","00:42:04,404",6.22,509,"When the late king ascended the throne, it was prophesized that the next king would have the energy of the King's Star."
+1,6,"00:42:05,523","00:42:08,283",2.76,510,The people of Daeho were delighted.
+1,6,"00:42:08,359","00:42:12,448",4.09,511,"However, your father who had an ordinary horoscope ascended the throne next."
+1,6,"00:42:12,530","00:42:14,320",1.79,512,And you are no different either.
+1,6,"00:42:15,115","00:42:16,655",1.54,513,So people started talking.
+1,6,"00:42:17,535","00:42:19,365",1.83,514,The divination was incorrect.
+1,6,"00:42:19,453","00:42:23,173",3.72,515,Gwanju Jang Gang fled after giving such a ridiculous divination.
+1,6,"00:42:23,249","00:42:25,289",2.04,516,Your father believes in it.
+1,6,"00:42:25,876","00:42:27,626",1.75,517,That is why you are afraid.
+1,6,"00:42:30,089","00:42:31,549",1.46,518,I am not afraid.
+1,6,"00:42:31,632","00:42:36,680",5.05,519,You are afraid that someone with that energy will appear or that your father may have a son like that.
+1,6,"00:42:37,555","00:42:39,385",1.83,520,I am aware of that.
+1,6,"00:42:42,810","00:42:45,560",2.75,521,Your duel against Jang Uk is around the corner.
+1,6,"00:42:45,646","00:42:48,976",3.33,522,Eliminate the son of that man who gave such a terrifying divination.
+1,6,"00:42:50,609","00:42:53,399",2.79,523,You must get rid of your fears when you can.
+1,6,"00:42:56,031","00:42:59,535",3.50,524,Do you think he will even show up that day?
+1,6,"00:43:00,536","00:43:01,616",1.08,525,I heard he fled.
+1,6,"00:43:02,538","00:43:05,998",3.46,526,Rumor has it that he is even contemplating marriage to avoid it.
+1,6,"00:43:07,167","00:43:08,457",1.29,527,Marriage?
+1,6,"00:43:08,544","00:43:12,464",3.92,528,I heard he is marrying into the Jin family so he can earn the Jin family's plaque.
+1,6,"00:43:18,887","00:43:20,887",2.00,529,Uk and Cho-yeon are getting married?
+1,6,"00:43:21,682","00:43:23,522",1.84,530,Did they not break off their engagement before?
+1,6,"00:43:24,435","00:43:26,395",1.96,531,That is why it is easier to prepare for it.
+1,6,"00:43:27,187","00:43:32,652",5.47,532,She still had the marriage gifts from last time.
+1,6,"00:43:35,696","00:43:36,776",1.08,533,I see.
+1,6,"00:43:37,281","00:43:40,161",2.88,534,"After the marriage ceremony, Jang Uk…"
+1,6,"00:43:40,242","00:43:43,202",2.96,535,"I mean, my husband will move in here."
+1,6,"00:43:43,704","00:43:46,214",2.51,536,But my current room is too small for both of us.
+1,6,"00:43:46,290","00:43:50,750",4.46,537,Can we use the big room in the east instead?
+1,6,"00:43:51,337","00:43:54,087",2.75,538,But that is your sister's room.
+1,6,"00:43:55,591","00:43:58,141",2.55,539,It is the best room we have.
+1,6,"00:43:58,218","00:44:01,258",3.04,540,It is such a waste to keep it vacant for over a decade.
+1,6,"00:44:02,264","00:44:03,724",1.46,541,It was never vacant.
+1,6,"00:44:04,433","00:44:06,143",1.71,542,Bu-yeon will return.
+1,6,"00:44:07,561","00:44:09,311",1.75,543,"I am sorry, Mother."
+1,6,"00:44:12,066","00:44:13,936",1.87,544,Your father is looking for her.
+1,6,"00:44:15,110","00:44:18,200",3.09,545,Your sister will return home soon.
+1,6,"00:44:20,616","00:44:22,986",2.37,546,Bring me the yin-and-yang jade from Jinyowon.
+1,6,"00:44:25,412","00:44:26,712",1.30,547,The yin-and-yang jade?
+1,6,"00:44:26,789","00:44:28,169",1.38,548,You have been wanting that.
+1,6,"00:44:29,708","00:44:34,546",4.84,549,"They say when you and your lover wear rings made of that jade, your love for each other deepens."
+1,6,"00:44:36,674","00:44:39,684",3.01,550,Craft your wedding rings with it.
+1,6,"00:44:41,095","00:44:42,845",1.75,551,"Thank you, Mother."
+1,6,"00:45:06,370","00:45:08,750",2.38,552,What an annoying pot.
+1,6,"00:45:06,370","00:45:08,750",2.38,553,"It was you, was it not?"
+1,6,"00:45:09,248","00:45:10,788",1.54,554,How annoying.
+1,6,"00:45:17,756","00:45:21,181",3.43,555,I guess it annoys you that I am getting married.
+1,6,"00:45:21,260","00:45:22,300",1.04,556,But wait and see.
+1,6,"00:45:22,386","00:45:25,814",3.43,557,I will become even more annoying once I wear a ring made of this jade.
+1,6,"00:45:38,110","00:45:39,700",1.59,558,Eat up.
+1,6,"00:45:40,696","00:45:41,986",1.29,559,All right.
+1,6,"00:45:44,366","00:45:46,866",2.50,560,I had brought home a pheasant earlier.
+1,6,"00:45:46,952","00:45:48,912",1.96,561,So why are there only greens?
+1,6,"00:45:48,996","00:45:52,001",3.01,562,It is inside-- It is in the soup.
+1,6,"00:45:52,082","00:45:53,832",1.75,563,The pheasant was so tiny.
+1,6,"00:45:53,917","00:45:55,667",1.75,564,There was not much left after making that broth.
+1,6,"00:46:06,597","00:46:08,677",2.08,565,I do get a very faint taste of it.
+1,6,"00:46:13,687","00:46:16,477",2.79,566,I overheard this while selling herbs in Songrim.
+1,6,"00:46:16,565","00:46:18,935",2.37,567,Two prominent families will be marrying off their kids.
+1,6,"00:46:19,526","00:46:21,446",1.92,568,Who will be getting married?
+1,6,"00:46:21,528","00:46:24,448",2.92,569,Lady Jin's daughter is getting married.
+1,6,"00:46:25,157","00:46:28,197",3.04,570,Cho-yeon is getting married? To whom?
+1,6,"00:46:28,285","00:46:30,405",2.12,571,To the son of Cheonbugwan's Gwanju.
+1,6,"00:46:32,706","00:46:34,076",1.37,572,Is that not you?
+1,6,"00:46:45,010","00:46:48,220",3.21,573,I was never told I was getting married.
+1,6,"00:46:45,010","00:46:48,220",3.21,574,What is going on?
+1,6,"00:46:48,305","00:46:49,965",1.66,575,What is up Maidservant Kim's sleeve?
+1,6,"00:46:50,057","00:46:52,807",2.75,576,Most hastened weddings tend to be shotgun weddings.
+1,6,"00:46:52,893","00:46:53,943",1.05,577,That is not true.
+1,6,"00:46:54,520","00:46:56,100",1.58,578,You were previously engaged to her.
+1,6,"00:46:56,772","00:46:58,362",1.59,579,Maybe you could not control yourself.
+1,6,"00:46:58,440","00:47:01,650",3.21,580,How could she be pregnant when we were never this close?
+1,6,"00:47:02,486","00:47:04,606",2.12,581,Right. You are all talk.
+1,6,"00:47:04,696","00:47:05,856",1.16,582,What?
+1,6,"00:47:05,948","00:47:07,818",1.87,583,Then why did you refuse the chaste herb tea?
+1,6,"00:47:07,908","00:47:08,908",1.00,584,That is because…
+1,6,"00:47:11,328","00:47:12,998",1.67,585,I have plans to marry later on.
+1,6,"00:47:14,831","00:47:16,581",1.75,586,You must want to get married one day.
+1,6,"00:47:17,876","00:47:19,416",1.54,587,"Yes, I do."
+1,6,"00:47:19,503","00:47:20,633",1.13,588,I truly want to.
+1,6,"00:47:21,380","00:47:23,920",2.54,589,I will get married at all costs.
+1,6,"00:47:24,007","00:47:25,257",1.25,590,Wait up.
+1,6,"00:47:40,482","00:47:42,192",1.71,591,Why did you want to see me?
+1,6,"00:47:42,985","00:47:46,405",3.42,592,When will the mother-of-pearl cabinet that I ordered from Songrim come?
+1,6,"00:47:47,030","00:47:48,280",1.25,593,It is for Uk and me.
+1,6,"00:47:48,365","00:47:52,365",4.00,594,The trade from the south will arrive in two weeks.
+1,6,"00:47:53,120","00:47:54,410",1.29,595,That will be too late.
+1,6,"00:47:55,414","00:47:56,874",1.46,596,I should have ordered sooner.
+1,6,"00:47:56,957","00:47:58,827",1.87,597,Forget about the mother-of-pearl cabinet.
+1,6,"00:47:59,376","00:48:01,296",1.92,598,You should inform Uk first.
+1,6,"00:48:02,629","00:48:03,959",1.33,599,He has no idea about this.
+1,6,"00:48:06,049","00:48:08,679",2.63,600,That is why I have written a letter to him.
+1,6,"00:48:09,469","00:48:10,929",1.46,601,Read it and share your thoughts.
+1,6,"00:48:12,639","00:48:13,769",1.13,602,Sure.
+1,6,"00:48:17,477","00:48:18,597",1.12,603,It is fragrant.
+1,6,"00:48:18,687","00:48:20,977",2.29,604,This is a perfume that incurs the feeling of love.
+1,6,"00:48:21,898","00:48:23,358",1.46,605,A treasure of Jinyowon.
+1,6,"00:48:25,110","00:48:27,740",2.63,606,"Gosh, it is very fragrant."
+1,6,"00:48:49,551","00:48:51,301",1.75,607,Why are you sniffing it?
+1,6,"00:48:51,386","00:48:52,346",0.96,608,Stop that!
+1,6,"00:48:53,472","00:48:55,392",1.92,609,Hold your nostrils shut!
+1,6,"00:49:07,736","00:49:09,566",1.83,610,I almost wasted the precious perfume.
+1,6,"00:49:12,783","00:49:14,493",1.71,611,Please give this to him.
+1,6,"00:49:15,077","00:49:18,287",3.21,612,And make sure there are no women around him when he opens it.
+1,6,"00:49:21,083","00:49:21,923",0.84,613,I will.
+1,6,"00:49:27,255","00:49:28,375",1.12,614,What are you doing?
+1,6,"00:49:28,465","00:49:33,135",4.67,615,"Uk's hand size is similar to yours, right?"
+1,6,"00:49:35,138","00:49:36,348",1.21,616,Why do you ask?
+1,6,"00:49:37,140","00:49:39,640",2.50,617,Come with me to get our wedding rings.
+1,6,"00:49:39,726","00:49:41,056",1.33,618,Lend me your hand.
+1,6,"00:49:41,812","00:49:44,272",2.46,619,Why would I go there with you?
+1,6,"00:49:44,356","00:49:45,516",1.16,620,Go with your groom.
+1,6,"00:49:46,566","00:49:50,696",4.13,621,Marriage should only happen when both sides agree to it.
+1,6,"00:49:51,321","00:49:54,071",2.75,622,I pity you for being like this.
+1,6,"00:49:55,367","00:49:56,197",0.83,623,Why?
+1,6,"00:49:57,786","00:49:59,746",1.96,624,Do you think I am getting ahead of myself?
+1,6,"00:50:00,455","00:50:02,495",2.04,625,Do you think he will break it off again?
+1,6,"00:50:07,462","00:50:13,137",5.68,626,"Whether you are getting ahead of yourself or not, I will help you."
+1,6,"00:50:13,969","00:50:15,139",1.17,627,Just make sure it pans out.
+1,6,"00:50:20,183","00:50:21,943",1.76,628,And I will lend you my hand.
+1,6,"00:50:31,111","00:50:37,580",6.47,629,"Come to think of it, Maidservant Kim was against the idea of me living with the wife's family the last time we discussed marriage with Cho-yeon."
+1,6,"00:50:38,952","00:50:42,252",3.30,630,There is only one reason why this is being discussed again.
+1,6,"00:50:42,748","00:50:43,958",1.21,631,She wants to save me.
+1,6,"00:50:44,541","00:50:49,207",4.67,632,She must have made a deal with the Jin family to avoid your duel with the Crown Prince.
+1,6,"00:50:49,296","00:50:51,296",2.00,633,She probably needed Lady Jin's help.
+1,6,"00:50:52,758","00:50:56,847",4.09,634,"If that were the case, will you get married?"
+1,6,"00:50:58,597","00:51:01,597",3.00,635,"What should I do, Master?"
+1,6,"00:50:58,597","00:51:01,597",3.00,636,Should I get married?
+1,6,"00:51:03,977","00:51:05,097",1.12,637,Can I?
+1,6,"00:51:06,938","00:51:10,648",3.71,638,"If you do, we can no longer stay in Danghyanggok."
+1,6,"00:51:11,234","00:51:13,154",1.92,639,Right. I should return home.
+1,6,"00:51:13,236","00:51:15,446",2.21,640,"Even still, we cannot have this relationship."
+1,6,"00:51:15,530","00:51:18,410",2.88,641,Why not? I can still keep you by my side as my maid.
+1,6,"00:51:20,619","00:51:23,289",2.67,642,I have no plans to stay by your side as just a maid.
+1,6,"00:51:41,515","00:51:43,135",1.62,643,You can go ahead alone.
+1,6,"00:51:43,225","00:51:44,725",1.50,644,I will be at Chwiseonru.
+1,6,"00:51:46,061","00:51:49,151",3.09,645,"If you do not pick me up, I will go back alone."
+1,6,"00:52:03,870","00:52:05,620",1.75,646,CHWISEONRU
+1,6,"00:52:11,086","00:52:12,086",1.00,647,What is going on?
+1,6,"00:52:12,170","00:52:13,840",1.67,648,We are from Cheonbugwan.
+1,6,"00:52:13,922","00:52:15,802",1.88,649,We were told to escort you.
+1,6,"00:52:15,882","00:52:16,722",0.84,650,Let us go.
+1,6,"00:52:20,136","00:52:22,056",1.92,651,This is the Crown Prince's sachet.
+1,6,"00:52:22,138","00:52:25,808",3.67,652,I have His Royal Highness' protection.
+1,6,"00:52:22,138","00:52:25,808",3.67,653,You cannot touch me.
+1,6,"00:52:29,020","00:52:31,480",2.46,654,What are you doing? Let me go!
+1,6,"00:52:31,565","00:52:33,435",1.87,655,This is the Crown Prince's sachet.
+1,6,"00:52:45,453","00:52:47,663",2.21,656,We brought her from Chwiseonru like he wanted.
+1,6,"00:52:48,290","00:52:50,080",1.79,657,Chwiseonru?
+1,6,"00:52:58,884","00:53:01,304",2.42,658,"The girl you wanted is here, Your Royal Highness."
+1,6,"00:53:01,928","00:53:03,048",1.12,659,Where?
+1,6,"00:53:06,766","00:53:07,846",1.08,660,Over here.
+1,6,"00:53:10,186","00:53:11,146",0.96,661,Her?
+1,6,"00:53:11,688","00:53:13,268",1.58,662,Lift your head up.
+1,6,"00:53:29,623","00:53:31,253",1.63,663,Why are you dressed like that?
+1,6,"00:53:31,833","00:53:33,343",1.51,664,I do not know.
+1,6,"00:53:33,877","00:53:37,087",3.21,665,She did this to me after I was dragged here.
+1,6,"00:53:38,048","00:53:40,218",2.17,666,Did you do that?
+1,6,"00:53:40,300","00:53:44,511",4.21,667,Is she not the gisaeng from Chwiseonru?
+1,6,"00:53:45,680","00:53:46,850",1.17,668,"No, she is not."
+1,6,"00:53:48,391","00:53:50,811",2.42,669,She is Filthy Mu-deok.
+1,6,"00:53:48,391","00:53:50,811",2.42,670,Filthy?
+1,6,"00:53:52,896","00:53:54,146",1.25,671,Get out.
+1,6,"00:53:55,065","00:53:56,315",1.25,672,Go.
+1,6,"00:53:59,444","00:54:00,704",1.26,673,Look at you.
+1,6,"00:54:04,908","00:54:06,908",2.00,674,Why did you want to see me?
+1,6,"00:54:06,993","00:54:10,833",3.84,675,"I had something to tell you, so I told them to get you."
+1,6,"00:54:10,914","00:54:12,924",2.01,676,But you are not Filthy Mu-deok right now.
+1,6,"00:54:12,999","00:54:14,629",1.63,677,Filth and silk do not go hand in hand.
+1,6,"00:54:15,335","00:54:17,915",2.58,678,"Maybe in your dictionary, it does."
+1,6,"00:54:18,964","00:54:20,344",1.38,679,Did you just snap at me?
+1,6,"00:54:20,423","00:54:21,973",1.55,680,"No, Your Royal Highness."
+1,6,"00:54:22,050","00:54:25,010",2.96,681,I am grateful that you dressed someone as filthy as me in silk.
+1,6,"00:54:26,638","00:54:33,138",6.50,682,All right. This new look… does not suit you.
+1,6,"00:54:35,939","00:54:40,744",4.81,683,"Since you do not like it and I am uncomfortable in this, let me go get changed."
+1,6,"00:54:40,819","00:54:41,899",1.08,684,No.
+1,6,"00:54:43,071","00:54:45,661",2.59,685,It is all right. Just keep it on.
+1,6,"00:54:48,118","00:54:52,208",4.09,686,"Tell me what you want, and I will do it."
+1,6,"00:54:52,288","00:54:56,498",4.21,687,Tell your young master not to show up that day.
+1,6,"00:54:57,669","00:55:02,257",4.59,688,I do not want to kill him and become enemies with Songrim or the Jang family.
+1,6,"00:55:02,966","00:55:05,256",2.29,689,"It is best that he fled, and let us keep it that way."
+1,6,"00:55:06,803","00:55:09,263",2.46,690,So he just needs to be the laughingstock.
+1,6,"00:55:09,931","00:55:10,971",1.04,691,That is right.
+1,6,"00:55:11,599","00:55:14,889",3.29,692,"If he becomes stubborn, dissuade him."
+1,6,"00:55:14,978","00:55:16,898",1.92,693,He will die if he fights me.
+1,6,"00:55:19,482","00:55:22,612",3.13,694,"Tell him to stay hidden, then get married to the Jin family."
+1,6,"00:55:23,903","00:55:26,993",3.09,695,So it is true that getting married will save his life.
+1,6,"00:55:29,743","00:55:32,043",2.30,696,What will happen to you if he gets married?
+1,6,"00:55:32,120","00:55:33,250",1.13,697,Will you go with him?
+1,6,"00:55:33,913","00:55:35,213",1.30,698,"No, I will not."
+1,6,"00:55:35,832","00:55:38,502",2.67,699,Why not? Did he refuse?
+1,6,"00:55:40,920","00:55:43,800",2.88,700,You were even willing to drink filthy chamber pot water for him.
+1,6,"00:55:43,882","00:55:46,973",3.09,701,He knows neither loyalty nor duty.
+1,6,"00:55:48,178","00:55:52,388",4.21,702,"He does know a bit, Your Royal Highness."
+1,6,"00:55:52,474","00:55:54,894",2.42,703,Are you taking his side?
+1,6,"00:55:52,474","00:55:54,894",2.42,704,You were always bad-mouthing him.
+1,6,"00:55:54,976","00:55:56,766",1.79,705,"I am sorry, Your Royal Highness."
+1,6,"00:55:57,729","00:56:00,019",2.29,706,It would please you if I bad-mouthed him.
+1,6,"00:56:00,857","00:56:04,607",3.75,707,But I have no energy to run my mouth right now.
+1,6,"00:56:06,154","00:56:08,784",2.63,708,You are a filthy mutt who will be abandoned by its owner.
+1,6,"00:56:20,126","00:56:21,166",1.04,709,Should I take you in?
+1,6,"00:56:23,296","00:56:24,546",1.25,710,I can do that.
+1,6,"00:56:25,131","00:56:27,431",2.30,711,There must be things you can do here too.
+1,6,"00:56:28,760","00:56:29,640",0.88,712,"No, thank you."
+1,6,"00:56:31,054","00:56:37,306",6.25,713,"I may be a filthy girl whom everyone avoids, but I refuse to serve just anyone."
+1,6,"00:56:40,814","00:56:43,444",2.63,714,Forget it. I do not want someone filthy by my side either.
+1,6,"00:56:44,067","00:56:46,107",2.04,715,You may leave.
+1,6,"00:56:44,067","00:56:46,107",2.04,716,"Yes, Your Royal Highness."
+1,6,"00:56:51,658","00:56:55,035",3.38,717,"I will go now, Your Royal Highness."
+1,6,"00:57:04,587","00:57:05,957",1.37,718,"""Just anyone""?"
+1,6,"00:57:07,298","00:57:08,588",1.29,719,But I am the Crown Prince.
+1,6,"00:57:08,675","00:57:12,300",3.62,720,Filthy Mu-deok does not know to whom she is speaking.
+1,6,"00:57:29,779","00:57:32,529",2.75,721,Be gentle. Take your time.
+1,6,"00:57:29,779","00:57:32,529",2.75,722,"Yes, ma'am."
+1,6,"00:57:34,659","00:57:35,489",0.83,723,Maidservant Kim.
+1,6,"00:57:36,911","00:57:37,791",0.88,724,How have you been?
+1,6,"00:57:39,038","00:57:40,118",1.08,725,Young Master!
+1,6,"00:57:40,748","00:57:42,248",1.50,726,My dear Young Master!
+1,6,"00:57:44,252","00:57:46,132",1.88,727,Young Master!
+1,6,"00:57:44,252","00:57:46,132",1.88,728,Were you worried?
+1,6,"00:57:46,212","00:57:47,422",1.21,729,Have you been eating well?
+1,6,"00:57:47,505","00:57:49,125",1.62,730,"Yes, I have. I have been well."
+1,6,"00:57:49,215","00:57:50,675",1.46,731,Goodness.
+1,6,"00:57:50,758","00:57:52,258",1.50,732,Your skin is radiating.
+1,6,"00:57:52,343","00:57:53,473",1.13,733,"Oh, please."
+1,6,"00:57:53,553","00:57:54,853",1.30,734,Let us go inside.
+1,6,"00:57:58,516","00:58:00,346",1.83,735,Was she the one who tried to sell…
+1,6,"00:58:03,021","00:58:04,401",1.38,736,Songrim's Spirit Plaque?
+1,6,"00:58:12,322","00:58:14,412",2.09,737,It was not me. It was Mu-deok.
+1,6,"00:58:15,200","00:58:17,410",2.21,738,Mu-deok tried to sell Uk's Spirit Plaque?
+1,6,"00:58:17,494","00:58:19,754",2.26,739,I just introduced her to the seller.
+1,6,"00:58:19,829","00:58:21,829",2.00,740,"In the end, Ae-hyang snatched it herself."
+1,6,"00:58:21,915","00:58:23,875",1.96,741,So Mu-deok and I are innocent.
+1,6,"00:58:41,601","00:58:42,891",1.29,742,What is this?
+1,6,"00:58:44,270","00:58:46,520",2.25,743,Why are you dressed like that?
+1,6,"00:58:47,273","00:58:48,983",1.71,744,It is a long story.
+1,6,"00:58:49,067","00:58:51,817",2.75,745,Have you returned to Chwiseonru?
+1,6,"00:58:52,695","00:58:54,945",2.25,746,Did Uk send you back since he is getting married?
+1,6,"00:58:55,031","00:58:56,321",1.29,747,"No, Young Master Seo."
+1,6,"00:58:56,407","00:59:00,327",3.92,748,"Even if that was the case, I would never come back here."
+1,6,"00:59:00,411","00:59:04,207",3.80,749,Ju-wol finally caved in and told me that you tried to sell Uk's Spirit Plaque.
+1,6,"00:59:07,544","00:59:09,384",1.84,750,"Yes, I did."
+1,6,"00:59:10,255","00:59:11,165",0.91,751,Why?
+1,6,"00:59:12,298","00:59:14,048",1.75,752,Because I needed money.
+1,6,"00:59:14,133","00:59:19,428",5.30,753,"I wanted to wear pretty clothes, have good food, and have fun at places like this."
+1,6,"00:59:19,514","00:59:23,024",3.51,754,Was that the case when you were drunk last time?
+1,6,"00:59:23,935","00:59:27,185",3.25,755,That is correct. I stole Young Master Jang's money and drank.
+1,6,"00:59:31,776","00:59:33,816",2.04,756,I am just so puzzled by you.
+1,6,"00:59:35,530","00:59:38,030",2.50,757,I cannot understand you.
+1,6,"00:59:41,452","00:59:43,752",2.30,758,You do not need to.
+1,6,"00:59:43,830","00:59:45,620",1.79,759,Just stay that way.
+1,6,"00:59:47,709","00:59:49,339",1.63,760,I am going inside.
+1,6,"00:59:49,419","00:59:51,089",1.67,761,Would you like to come with me?
+1,6,"00:59:51,879","00:59:52,799",0.92,762,That is all right.
+1,6,"00:59:54,048","00:59:55,168",1.12,763,"Goodbye, then."
+1,6,"01:00:00,847","01:00:04,477",3.63,764,CHWISEONRU
+1,6,"01:00:08,354","01:00:09,814",1.46,765,The Spirit Plaque…
+1,6,"01:00:11,190","01:00:14,360",3.17,766,"So it was you, Naksu."
+1,6,"01:00:24,495","01:00:25,615",1.12,767,Young Master.
+1,6,"01:00:27,415","01:00:29,415",2.00,768,Why do you not want to get married?
+1,6,"01:00:31,252","01:00:32,802",1.55,769,Do you dislike Young Lady Jin?
+1,6,"01:00:32,879","01:00:35,209",2.33,770,It is not that I dislike her.
+1,6,"01:00:36,257","01:00:38,127",1.87,771,I am just not interested.
+1,6,"01:00:38,760","01:00:40,890",2.13,772,"You have feelings for someone else, do you not?"
+1,6,"01:00:42,263","01:00:43,473",1.21,773,Who is it?
+1,6,"01:00:44,057","01:00:45,557",1.50,774,Do I know her?
+1,6,"01:00:46,559","01:00:48,599",2.04,775,"No, you do not."
+1,6,"01:00:49,187","01:00:50,397",1.21,776,So there is one.
+1,6,"01:00:50,480","01:00:51,730",1.25,777,I knew it.
+1,6,"01:00:51,814","01:00:52,864",1.05,778,Who is she?
+1,6,"01:00:54,400","01:00:55,440",1.04,779,Well…
+1,6,"01:00:55,526","01:00:58,446",2.92,780,She is like a single bird egg on top of a tree.
+1,6,"01:00:59,072","01:01:02,622",3.55,781,"I am the only one she has, so how could I possibly get married?"
+1,6,"01:01:02,700","01:01:05,620",2.92,782,Those kinds of girls are the most dangerous!
+1,6,"01:01:05,703","01:01:07,963",2.26,783,Those who have nothing to brag about but are just clingy!
+1,6,"01:01:08,039","01:01:09,539",1.50,784,She is not like that.
+1,6,"01:01:09,624","01:01:12,094",2.47,785,Who is she? Tell me this instant.
+1,6,"01:01:12,168","01:01:13,458",1.29,786,I will take care of it.
+1,6,"01:01:13,544","01:01:14,714",1.17,787,Exactly how?
+1,6,"01:01:14,796","01:01:19,930",5.13,788,"Once I give her a silk pouch full of money, she will crack out of her egg and fly away."
+1,6,"01:01:20,009","01:01:23,429",3.42,789,She cannot fly anywhere.
+1,6,"01:01:20,009","01:01:23,429",3.42,790,It is not that easy.
+1,6,"01:01:24,722","01:01:26,852",2.13,791,"In any case, I cannot get married."
+1,6,"01:01:26,933","01:01:28,143",1.21,792,So take care of it for me.
+1,6,"01:01:29,102","01:01:31,272",2.17,793,"You better take care of it, got that?"
+1,6,"01:01:32,063","01:01:33,403",1.34,794,Young Master.
+1,6,"01:01:35,900","01:01:38,610",2.71,795,What is wrong? Are you hurt?
+1,6,"01:01:38,695","01:01:39,945",1.25,796,Let me see.
+1,6,"01:01:42,115","01:01:44,025",1.91,797,What happened to your arm?
+1,6,"01:01:45,827","01:01:47,497",1.67,798,Did it get out of control again?
+1,6,"01:01:54,711","01:01:56,341",1.63,799,Please sell that dress.
+1,6,"01:01:56,421","01:02:00,051",3.63,800,"It is made of silk, so make it worth it."
+1,6,"01:01:56,421","01:02:00,051",3.63,801,All right.
+1,6,"01:02:00,633","01:02:03,093",2.46,802,Our madam is tending to a customer at the moment.
+1,6,"01:02:03,177","01:02:04,887",1.71,803,Young Lady Jin from Jinyowon is here.
+1,6,"01:02:05,638","01:02:09,178",3.54,804,She is looking for someone who can craft her wedding rings.
+1,6,"01:02:09,267","01:02:11,097",1.83,805,She is marrying a young master from Songrim.
+1,6,"01:02:15,064","01:02:17,324",2.26,806,Then how about this one?
+1,6,"01:02:20,319","01:02:24,029",3.71,807,These are the works of Daeho's best craftsmen?
+1,6,"01:02:25,825","01:02:28,695",2.87,808,They are stylish but a bit tacky.
+1,6,"01:02:30,329","01:02:32,579",2.25,809,Then may I see the yin-and-yang jade?
+1,6,"01:02:32,665","01:02:35,325",2.66,810,Seeing it for myself will help me give you better recommendations.
+1,6,"01:02:40,173","01:02:44,758",4.59,811,"They say when you and your lover wear rings made of that, your love for each other deepens."
+1,6,"01:02:58,983","01:03:00,693",1.71,812,Why did the jade break?
+1,6,"01:03:01,527","01:03:03,907",2.38,813,It was fine when I took it with me.
+1,6,"01:03:09,702","01:03:12,412",2.71,814,I see. That is when it broke.
+1,6,"01:03:15,416","01:03:16,496",1.08,815,Mu-deok.
+1,6,"01:03:23,174","01:03:24,434",1.26,816,Young Lady Jin.
+1,6,"01:03:25,009","01:03:27,299",2.29,817,Why are you suddenly leaving?
+1,6,"01:03:27,386","01:03:30,466",3.08,818,That is Mu-deok. Is Uk here as well?
+1,6,"01:03:30,556","01:03:31,766",1.21,819,No.
+1,6,"01:03:33,100","01:03:35,730",2.63,820,I see.
+1,6,"01:03:33,100","01:03:37,612",4.51,821,"Since they are attached at the hip, he must be somewhere in the fortress."
+1,6,"01:03:37,688","01:03:39,478",1.79,822,Attached at the hip?
+1,6,"01:03:39,565","01:03:41,275",1.71,823,"As his maid, she is serving him."
+1,6,"01:03:42,401","01:03:43,821",1.42,824,Watch what you say.
+1,6,"01:03:45,279","01:03:48,869",3.59,825,Mu-deok is not just any ordinary maid to him.
+1,6,"01:03:50,034","01:03:53,504",3.47,826,He came by to pick Mu-deok up when she was drunk recently.
+1,6,"01:03:54,163","01:03:55,963",1.80,827,He adores her so much.
+1,6,"01:03:56,040","01:03:58,540",2.50,828,He even carried her on his back.
+1,6,"01:03:59,210","01:04:03,921",4.71,829,It is obvious that he picked her from the get-go because she won his heart.
+1,6,"01:04:04,465","01:04:07,755",3.29,830,Is Mu-deok from here? Was she a gisaeng?
+1,6,"01:04:07,844","01:04:09,304",1.46,831,She is one poor girl.
+1,6,"01:04:09,971","01:04:13,271",3.30,832,No wonder he cares about her so much.
+1,6,"01:04:27,613","01:04:28,663",1.05,833,Hey.
+1,6,"01:04:29,282","01:04:31,082",1.80,834,"You know who I am, right?"
+1,6,"01:04:32,451","01:04:34,581",2.13,835,"Of course, I do."
+1,6,"01:04:34,662","01:04:37,122",2.46,836,You are Young Lady Jin from Jinyowon.
+1,6,"01:04:39,125","01:04:42,245",3.12,837,"You will have to address me as ""Lady"" soon."
+1,6,"01:04:43,462","01:04:47,132",3.67,838,Because I will marry your young master soon.
+1,6,"01:04:48,676","01:04:51,386",2.71,839,"Goodness. Congratulations, my lady."
+1,6,"01:04:51,470","01:04:54,680",3.21,840,"As your master's wife, you will serve me too."
+1,6,"01:04:56,100","01:04:57,640",1.54,841,There is something you must do.
+1,6,"01:04:59,896","01:05:01,606",1.71,842,"First, carry this."
+1,6,"01:05:02,648","01:05:04,278",1.63,843,What is this?
+1,6,"01:05:11,115","01:05:12,405",1.29,844,What was that?
+1,6,"01:05:13,576","01:05:15,236",1.66,845,A broken stone?
+1,6,"01:05:17,830","01:05:20,250",2.42,846,It is a precious object.
+1,6,"01:05:20,333","01:05:24,593",4.26,847,"If it breaks or cracks, you will have to take responsibility."
+1,6,"01:05:25,713","01:05:28,383",2.67,848,Is she saying that when it is already broken?
+1,6,"01:05:29,300","01:05:30,340",1.04,849,Take that and follow me.
+1,6,"01:05:31,594","01:05:32,724",1.13,850,My lady.
+1,6,"01:05:33,471","01:05:35,311",1.84,851,You are not someone I must serve yet.
+1,6,"01:05:35,932","01:05:38,642",2.71,852,I must go to Young Master Jang now. Goodbye.
+1,6,"01:05:42,939","01:05:45,479",2.54,853,Is she looking down on me?
+1,6,"01:05:53,240","01:05:55,790",2.55,854,Was that real back there?
+1,6,"01:06:06,379","01:06:08,759",2.38,855,It is best that I do not cross paths with him.
+1,6,"01:06:10,883","01:06:12,933",2.05,856,Hey! You!
+1,6,"01:06:15,012","01:06:15,932",0.92,857,The dangerous man?
+1,6,"01:06:17,765","01:06:19,225",1.46,858,Or this mean brat?
+1,6,"01:06:20,810","01:06:21,890",1.08,859,My lady.
+1,6,"01:06:22,687","01:06:25,057",2.37,860,Give that to me. I will carry it.
+1,6,"01:06:28,275","01:06:29,395",1.12,861,Sure.
+1,6,"01:06:29,485","01:06:32,025",2.54,862,Make sure you do not break it.
+1,6,"01:06:36,617","01:06:38,117",1.50,863,So it is broken.
+1,6,"01:06:38,703","01:06:40,913",2.21,864,She is going to put the blame on me.
+1,6,"01:07:09,817","01:07:11,817",2.00,865,Is this the Jin family's abode?
+1,6,"01:07:44,602","01:07:46,062",1.46,866,Why are you not coming?
+1,6,"01:07:58,324","01:07:59,374",1.05,867,Mother.
+1,6,"01:08:21,055","01:08:22,675",1.62,868,You cannot leave like this.
+1,6,"01:08:23,974","01:08:27,354",3.38,869,Say that you will marry her in front of your late mother's portrait.
+1,6,"01:08:27,436","01:08:29,976",2.54,870,That is the only way to protect your father's position.
+1,6,"01:08:32,399","01:08:33,729",1.33,871,Maidservant Kim.
+1,6,"01:08:33,818","01:08:38,200",4.38,872,Do you think I really am my father's son?
+1,6,"01:08:41,742","01:08:46,081",4.34,873,Do you know who my real father is?
+1,6,"01:08:47,748","01:08:49,418",1.67,874,What do you mean?
+1,6,"01:08:50,334","01:08:52,554",2.22,875,You are Gwanju Jang Gang's son.
+1,6,"01:08:54,463","01:08:56,673",2.21,876,Yes. That is what I believed all my life.
+1,6,"01:08:56,757","01:08:58,587",1.83,877,I do not want to deny it now.
+1,6,"01:08:58,676","01:08:59,636",0.96,878,So…
+1,6,"01:09:01,720","01:09:03,720",2.00,879,I will not sit still.
+1,6,"01:09:05,182","01:09:09,015",3.83,880,Do not stop me no matter what I do.
+1,6,"01:09:17,027","01:09:20,157",3.13,881,"Maidservant Kim, the Jin family sent someone."
+1,6,"01:09:20,739","01:09:23,079",2.34,882,From Jinyowon? What is it about?
+1,6,"01:09:23,159","01:09:24,619",1.46,883,Something happened there.
+1,6,"01:09:25,494","01:09:28,584",3.09,884,They want Young Master Jang to hurry over.
+1,6,"01:10:09,455","01:10:10,745",1.29,885,You were looking for me?
+1,6,"01:10:10,831","01:10:12,121",1.29,886,What is this about?
+1,6,"01:10:12,708","01:10:15,418",2.71,887,A precious treasure of ours has disappeared.
+1,6,"01:10:16,212","01:10:20,802",4.59,888,And an individual has disappeared with it.
+1,6,"01:10:28,140","01:10:30,890",2.75,889,So this is Jinyowon.
+1,6,"01:10:39,360","01:10:40,440",1.08,890,Hey.
+1,6,"01:10:47,701","01:10:49,201",1.50,891,So it is you.
+1,6,"01:10:53,332","01:10:54,922",1.59,892,It has been a long time.
+1,6,"01:11:25,197","01:11:30,036",4.84,893,You are saying Mu-deok -disappeared here?
+1,6,"01:11:27,366","01:11:30,036",2.67,894,Yes.
+1,6,"01:11:30,619","01:11:35,166",4.55,895,"Your maid, Mu-deok, stole our yin-and-yang jade and ran away."
