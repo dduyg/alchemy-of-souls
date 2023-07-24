@@ -101,10 +101,7 @@ def is_continuation(prev_line, curr_line):
     # Check if the current line starts with a lowercase word (ignoring symbols at the beginning)
     first_word = re.search(r'\b[a-zA-Z]+\b', curr_line)
     if first_word and first_word.group(0)[0].islower():
-        return True
-
-    if prev_line[6].endswith('.\"') and curr_line[0].isupper():
-        return False   
+        return True  
     if curr_line[0].isupper() and (prev_line[6][-1] not in ['.', '!', '?', '…']):
         return True
     return False
