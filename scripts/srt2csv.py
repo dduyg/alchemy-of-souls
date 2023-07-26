@@ -93,8 +93,15 @@ def is_continuation(prev_line, curr_line):
     # If there are at least two uppercase characters consecutively, the previous line will be treated as an independent element,
     # such as signs, titles, or headers seen in the scene.
     if any(char.isupper() for i, char in enumerate(prev_line[6]) if char.isalpha() and char.isupper() and i < len(prev_line[6])-1 and prev_line[6][i+1].isupper()):
+        # Check if the current line also contains at least two uppercase characters consecutively
+        if any(char.isupper() for i, char in enumerate(curr_line) if char.isalpha() and char.isupper() and i < len(curr_line)-1 and curr_line[i+1].isupper()):
+            return True
         return False
 
+    # Check if the current line starts with a lowercase word (ignoring symbols at the beginning)
+    first_word = re.search(r'\b[a-zA-Z]+\b', curr_line)
+    if first_word and first_word.group(0)[0].islower():
+        return True  
     if curr_line[0].isupper() and (prev_line[6][-1] not in ['.', '!', '?', '…']):
         return True
     return False
