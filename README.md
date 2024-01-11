@@ -1,5 +1,7 @@
 # Extracting Valuable Lines from ‘Alchemy of Souls’
 
+> ⚙️ Work in Progress: This repository is not finalized; stay tuned for updates!
+
 This application returns a random line from the Korean series [*Alchemy of Souls*](https://www.imdb.com/title/tt20859920/) upon the click of a button, and displays it in the browser.
 
 <a href="https://dduyg.github.io/alchemy-of-souls/"><img src="/images/project-image.png" width="245px"></a>
